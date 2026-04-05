@@ -7,7 +7,7 @@ You are free to do what you like with this work, but if you could link back / cr
 # Credits
 * WIM/FM Liwia Jarocka
 * WGM Michalina Rudzińska
-* WGM Margaria Voyska
+* WGM Margarita Voyska
 * 'Fiddler' for his guidance
 
 # Overview
