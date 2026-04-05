@@ -1,0 +1,5094 @@
+
+[Event ""]
+[Site "https://lichess.org/ggikeVoy#13"]
+[FEN "r2qkbnr/1ppn1pp1/p3p2p/3pPb2/B4P2/5N2/PPPP2PP/RNBQ1RK1 b kq - 1 7"]
+[Themes "space"]
+[Difficulty "1"]
+
+1. b5 *
+
+
+[Event ""]
+[Site "https://lichess.org/psEIUntl#56"]
+[FEN "5rk1/pp4p1/5nB1/P2p4/6p1/1P2R3/2P2P2/6K1 w - - 0 29"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Re7 *
+
+
+[Event ""]
+[Site "https://lichess.org/jsZKvKa0#25"]
+[FEN "r1b2rk1/pppq1ppp/8/4n1B1/2Pp4/PP4PP/3QPP2/R3KB1R b KQ - 0 13"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. Qc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/mAWFcUQK#38"]
+[FEN "2kr3r/pppb1p1p/8/2q5/4PP2/P2B4/1P1Q2PP/R4RK1 w - - 1 20"]
+[Themes "other"]
+[Difficulty "1"]
+
+1. Qf2 *
+
+
+[Event ""]
+[Site "https://lichess.org/uQnpMIED#43"]
+[FEN "2kr3r/1p2npbp/4p1p1/1P1pP3/3P4/p1B2B1P/5PP1/1K1R3R b - - 0 22"]
+[Themes "development,coordination"]
+[Difficulty "3"]
+
+1. Kd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/GmIJzPfh#15"]
+[FEN "r2qkbnr/1p3ppp/p1n1p3/3pPb2/B2Q4/5N2/PPP2PPP/RNB2RK1 b kq - 1 8"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. b5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Ap6uPW7z#49"]
+[FEN "4r1k1/pp1n1p2/2pb2p1/8/3Pr3/1PP1P2R/N2KB3/7R b - - 3 25"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Nf6 *
+
+
+[Event ""]
+[Site "https://lichess.org/azvJbSw1#18"]
+[FEN "r2q3r/pbp1pkbp/1pn2npB/3p4/3P4/4P3/PPPNBPP1/R2QK1NR w KQ - 2 10"]
+[Themes "trading"]
+[Difficulty "4"]
+
+1. Bf4 *
+
+
+[Event ""]
+[Site "https://lichess.org/z49wbaeD#20"]
+[FEN "2rqk2r/pp1bppb1/2np1np1/7p/3NP1P1/2N1BP2/PPPQ3P/2KR1B1R w k h6 0 11"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. g5 *
+
+
+[Event ""]
+[Site "https://lichess.org/BEYvZvh2#56"]
+[FEN "6k1/p2q2p1/2p1pp2/1rQ5/3PP3/3bBP1P/P5P1/R5K1 w - - 1 29"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Qc3 *
+
+
+[Event ""]
+[Site "https://lichess.org/rBa5yTeC#26"]
+[FEN "r1bq1r2/1p2ppkp/p2p2p1/2pPn3/4P1P1/2N2B1P/PPPQ1P2/R3K2R w KQ - 1 14"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Be2 *
+
+
+[Event ""]
+[Site "https://lichess.org/tfgLhZ6d#26"]
+[FEN "r1b2rk1/2p2ppp/2n1p1q1/p1Pn4/1P6/PQ2P2P/1B3PP1/R3KBNR w KQ a6 0 14"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. b5 *
+
+
+[Event ""]
+[Site "https://lichess.org/2rKGYII5#39"]
+[FEN "r7/ppp4r/3k1n2/3p3b/5N2/3P1P2/PPP3PP/2KRR3 b - - 3 20"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Bf7 *
+
+
+[Event ""]
+[Site "https://lichess.org/y2mzT5nD#34"]
+[FEN "r4rk1/1pq2p2/p1nb1n1p/6p1/PP1P4/1QP2BP1/1B3P1P/3R1RK1 w - g6 0 18"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/SSNia9GT#65"]
+[FEN "2r3k1/5pp1/p5bp/5P2/3BP3/P3K3/B5P1/8 b - - 0 33"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Bh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/kTlMYoqk#26"]
+[FEN "r1b1k2r/pp1nqnb1/2p2pB1/3p3p/3P2pP/1NN3B1/PPP2PP1/R2QK2R w KQkq - 2 14"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Ne2 *
+
+
+[Event ""]
+[Site "https://lichess.org/BABgo3X8#12"]
+[FEN "r2qkbnr/1p2pppp/p1np4/2p4b/4P3/2NPBN1P/PPP2PP1/R2QKB1R w KQkq - 0 7"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. g4 *
+
+
+[Event ""]
+[Site "https://lichess.org/uNwcCteT#35"]
+[FEN "r3k2r/p1pp3p/1p2p1p1/3qRp2/5P2/1P1P4/P1P3PP/R2Q3K b kq - 1 18"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Qd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/uHutnbYB#34"]
+[FEN "r2r2k1/1bp2pbp/ppn1p1p1/4P1PP/5B2/2P2N2/PPKN1P2/3R3R w - - 1 18"]
+[Themes "space,other"]
+[Difficulty "2"]
+
+1. h6 *
+
+
+[Event ""]
+[Site "https://lichess.org/Yol2oSjq#16"]
+[FEN "r3kb1r/pp3ppp/1qn1pn2/1B1pNb2/3P1B2/2N5/PPP2PPP/R2QK2R w KQkq - 4 9"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. g4 *
+
+
+[Event ""]
+[Site "https://lichess.org/elY3BJLG#78"]
+[FEN "8/r6p/6pk/8/2RP2P1/8/P6P/7K w - - 1 40"]
+[Themes "endgame"]
+[Difficulty "3"]
+
+1. a4 *
+
+
+[Event ""]
+[Site "https://lichess.org/nAlAyyEX#47"]
+[FEN "2r2rk1/1b3pp1/p1q2b1N/1p1pp3/7P/1BP2P2/PP3PQ1/4RK1R b - - 0 24"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. Kh8 *
+
+
+[Event ""]
+[Site "https://lichess.org/H06Rf85d#67"]
+[FEN "6k1/4R3/1p1rp1p1/p3b3/4P3/5B1P/P7/7K b - - 3 34"]
+[Themes "endgame,prophylaxis"]
+[Difficulty "1"]
+
+1. Kf8 *
+
+
+[Event ""]
+[Site "https://lichess.org/34ZnoR7j#35"]
+[FEN "1r3rk1/1bpq1pb1/pp1pp1pp/n7/2P1P3/3PBNP1/3Q1PBP/1R3RK1 b - - 1 18"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Kh7 *
+
+
+[Event ""]
+[Site "https://lichess.org/3DAkZyP7#19"]
+[FEN "rn2k1nr/ppp2ppp/8/3PP3/5Bb1/2N3P1/PPP1N2q/R2QKB2 b kq - 3 10"]
+[Themes "kingsafety,other"]
+[Difficulty "3"]
+
+1. Ne7 *
+
+
+[Event ""]
+[Site "https://lichess.org/lQYhXI8e#88"]
+[FEN "1r4k1/p4p2/Pn4p1/8/p1R5/N3P1P1/5P1P/6K1 w - - 6 45"]
+[Themes "initiative,endgame"]
+[Difficulty "1"]
+
+1. Rc7 *
+
+
+[Event ""]
+[Site "https://lichess.org/JZxGpla2#26"]
+[FEN "r2q1rk1/pbpn1ppp/2pp1b2/7Q/4PP2/1PNB4/PBP3PP/R4RK1 w - - 7 14"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/f0cM0jer#18"]
+[FEN "r1bqk2r/pppp1ppp/2n2n2/8/2BPP3/5N2/P2Q1PPP/RN2K2R w KQkq - 1 10"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/7wQEy9DQ#56"]
+[FEN "6k1/5pp1/7p/8/3q4/5P2/PP2QKPP/8 w - - 2 29"]
+[Themes "endgame,prophylaxis"]
+[Difficulty "1"]
+
+1. Kf1 *
+
+
+[Event ""]
+[Site "https://lichess.org/SqE4rQMy#20"]
+[FEN "rnb1k2r/pp4pp/2pqpp2/4N3/3PpP2/6P1/PPPQ1P1P/R3KB1R w KQkq - 0 11"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Nc4 *
+
+
+[Event ""]
+[Site "https://lichess.org/kiLqcBTr#29"]
+[FEN "r1b2rk1/ppp1qppp/5n2/3Pp3/2B5/3Q1N2/PP3PPP/R3R1K1 b - - 3 15"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/0zoHMY6w#43"]
+[FEN "3kr3/ppp3pp/8/8/2P5/1Bn2P2/P4P1P/5K1R b - - 2 22"]
+[Themes "endgame"]
+[Difficulty "2"]
+
+1. a5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Yu2wNtHz#14"]
+[FEN "rnbqkb1r/pp3n1p/2pp1pp1/4p3/3PPB2/2N2N2/PPPQ1PPP/2KR1B1R w kq e6 0 8"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Be3 *
+
+
+[Event ""]
+[Site "https://lichess.org/otbxSIzw#30"]
+[FEN "r1b1r1k1/pp4b1/2p2n1p/4B1pP/2P5/2N5/PP2PPP1/R3KB1R w KQ - 1 16"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Bd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/nM6mqoi0#15"]
+[FEN "r1bqk2r/1pp2ppp/p1np1n2/2b5/4PB2/2NP2N1/PPP3PP/R2QKB1R b KQkq - 0 8"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Ng4 *
+
+
+[Event ""]
+[Site "https://lichess.org/RuYs4mn0#28"]
+[FEN "r1bq1rk1/1p1n1pb1/2p1p1pp/3pP3/Bn1P1P2/1PN1B2N/P1P3PP/R2Q1RK1 w - - 0 15"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. a3 *
+
+
+[Event ""]
+[Site "https://lichess.org/HLBXAZkp#34"]
+[FEN "r2qbr1k/pp2n1p1/4Bb1p/2p2p1Q/2Pp4/3P2N1/PP3PPP/R1B1R1K1 w - - 10 18"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Qh3 *
+
+
+[Event ""]
+[Site "https://lichess.org/13GuapdX#13"]
+[FEN "r1bqk1nr/p1p2ppp/2p5/2b5/2B1pP2/8/PPPPQ1PP/RNB1K2R b KQkq - 3 7"]
+[Themes "development"]
+[Difficulty "2"]
+
+1. Nf6 *
+
+
+[Event ""]
+[Site "https://lichess.org/rvKPWAsu#44"]
+[FEN "3rr1k1/6p1/1ppqp1np/p7/3P1p2/2PRQN2/PP3PPP/3R2K1 w - - 0 23"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Qe4 *
+
+
+[Event ""]
+[Site "https://lichess.org/3u1BhI2H#88"]
+[FEN "8/6pk/5p1p/p3pq2/7P/P1P1QKP1/1P3P2/8 w - - 17 45"]
+[Themes "endgame"]
+[Difficulty "1"]
+
+1. Kg2 *
+
+
+[Event ""]
+[Site "https://lichess.org/mm6bixx9#30"]
+[FEN "r4rk1/5ppp/pq2pn2/1b1p4/7Q/1NP1PNP1/PP3PP1/R3K2R w KQ - 2 16"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. g4 *
+
+
+[Event ""]
+[Site "https://lichess.org/aY38D7mX#21"]
+[FEN "r3k2r/pp1bbpp1/1qn1p2p/2ppPn2/5P2/3P1NP1/PPP1N1BP/R1BQ1R1K b kq - 1 11"]
+[Themes "prophylaxis"]
+[Difficulty "2"]
+
+1. h5 *
+
+
+[Event ""]
+[Site "https://lichess.org/65dnYLy1#21"]
+[FEN "r1bq1rk1/1p1pbppp/p1n5/2p5/4P1Q1/1PN4P/PBP2PP1/R3KB1R b KQ - 2 11"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/ya8wIOQp#36"]
+[FEN "1rq2rk1/1pp2ppp/p2bb1n1/8/3P4/P1P1B1PP/1PQ1NPB1/3RR1K1 w - - 3 19"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. h4 *
+
+
+[Event ""]
+[Site "https://lichess.org/NzxOQ1WA#16"]
+[FEN "r2qk2r/pb1pbppp/1pn2n2/2p3B1/4P3/2N2B2/PPP2PPP/R2QK1NR w KQkq - 4 9"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/LDPyF2ld#46"]
+[FEN "rn4k1/2b4n/2p3pp/1p2P1q1/p2PQr2/2N4P/PPB2PP1/R4RK1 w - - 2 24"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Qe3 *
+
+
+[Event ""]
+[Site "https://lichess.org/kxaX2PiF#17"]
+[FEN "r2q1rk1/pp3ppp/2nb1n2/2pppb2/2P5/PP1PPN2/1B1NBPPP/R2QK2R b KQ c3 0 9"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/ceUdIdYk#11"]
+[FEN "r1bq1b1r/pppp1kpp/2n5/4p3/4N3/5N2/PPPP1PPP/R1BQK2R b KQ - 0 6"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/sgeCU4B4#58"]
+[FEN "1r4k1/5p2/2p1rPp1/p1p1P1Kp/3pR3/1P1P3P/P1P5/4R3 w - a6 0 30"]
+[Themes "endgame"]
+[Difficulty "3"]
+
+1. Kh6 *
+
+
+[Event ""]
+[Site "https://lichess.org/O5tVkJVb#16"]
+[FEN "rn1q1rk1/pbp2pbp/1p2pnp1/3p4/3PP3/2PB1N2/PP1N1PPP/R1BQR1K1 w - d6 0 9"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/FZtMSGTA#21"]
+[FEN "r2q1rk1/ppp1nppp/2b1p3/2b1P3/3P4/1PB2N2/P4PPP/RN1Q1RK1 b - d3 0 11"]
+[Themes "trading"]
+[Difficulty "1"]
+
+1. Bb6 *
+
+
+[Event ""]
+[Site "https://lichess.org/i430lBnd#18"]
+[FEN "r2qk2r/pbpp1ppp/1p3b2/8/3QP3/2N5/PPP2PPP/2KR1B1R w kq - 0 10"]
+[Themes "space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/QpfEMSCo#20"]
+[FEN "r1b2rk1/ppp1qppp/2np4/2b1Pn2/5P2/P1N1PNP1/1PP1Q2P/R1B1KB1R w KQ - 1 11"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/B8UjH8Eb#12"]
+[FEN "r1bqkb1r/pppp1pp1/5n1p/8/2BQP3/8/PPP2PPP/RNB1K2R w KQkq - 1 7"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/59S9hk4t#27"]
+[FEN "r1bq1rk1/3pbppp/1p6/p1p5/2NpPB2/P5QP/1PP2PP1/2KR3R b - - 3 14"]
+[Themes "prophylaxis"]
+[Difficulty "3"]
+
+1. Bh4 *
+
+
+[Event ""]
+[Site "https://lichess.org/tyaDMaWP#32"]
+[FEN "r1bq1r2/4bppk/p1n1p2p/3pP3/1ppP2Q1/2P3NP/PP3PPN/R1B1R1K1 w - - 2 17"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Nh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Wpbo95T5#52"]
+[FEN "4r1k1/p4p1p/1pq3p1/8/3R1QP1/2P4P/PP3P2/7K w - - 1 27"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. Kh2 *
+
+
+[Event ""]
+[Site "https://lichess.org/zqk0rVBa#27"]
+[FEN "r2q1rk1/1p1bn1bp/p3p1p1/2p1Pp2/P1B5/2NP4/1PPBQ1PP/R4RK1 b - - 0 14"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Nc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/00gH3zId#22"]
+[FEN "r2qk2r/ppp3p1/3ppn1p/4b1B1/4P3/2P5/PP1N1PPP/R2Q1RK1 w kq - 0 12"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Be3 *
+
+
+[Event ""]
+[Site "https://lichess.org/WVl87lz7#38"]
+[FEN "1rb2rk1/pp1pqppp/8/2pQn3/4P3/1R6/P1PBBPPP/5RK1 w - - 2 20"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/jrW29P5V#14"]
+[FEN "r2qkb1r/pp2pppp/1nnp4/5b2/2PP4/2N2N2/PP3PPP/R1BQKB1R w KQkq - 1 8"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/9vKeKy77#16"]
+[FEN "r2qkb1r/pp1n1ppp/2p1pn2/3p4/3PP3/2NB1Q2/PPP2PPP/R1B2RK1 w kq - 1 9"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/xE6gxai6#24"]
+[FEN "rn2kbnr/pp3ppp/2p5/8/2PpP3/2NB1P2/PP1B1P1P/2KR3R w kq - 0 13"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Ne2 *
+
+
+[Event ""]
+[Site "https://lichess.org/gqhIcsY2#48"]
+[FEN "4r1k1/1bqn2bp/1p2p3/pP1pPp2/P1pN4/2P3B1/3NQ1PP/5R1K w - - 4 25"]
+[Themes "initiative,development"]
+[Difficulty "2"]
+
+1. Qh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/ogH8bapx#23"]
+[FEN "rnbq2k1/pp2b1pp/3p4/2pQ4/4P3/8/PPP2PPP/R1B1K2R b KQ - 0 12"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. Kh8 *
+
+
+[Event ""]
+[Site "https://lichess.org/hK9aSNbM#20"]
+[FEN "r2qk1nr/p2b1ppp/4p3/2bpP3/8/3B4/PP3PPP/RNBQ1RK1 w kq - 2 11"]
+[Themes "initiative,development"]
+[Difficulty "2"]
+
+1. Qg4 *
+
+
+[Event ""]
+[Site "https://lichess.org/s8B5GVqV#16"]
+[FEN "r2qk2r/ppp1bppp/2np1n2/8/3P4/1PN5/P1P1BPPP/R1BQ1RK1 w kq - 1 9"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Gl9LPkeC#15"]
+[FEN "r2qk2r/pppbbppp/2np1n2/4p3/2B1P3/2NPQP2/PPPB2PP/R3K1NR b KQkq - 2 8"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. Nd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/YSavVaBt#18"]
+[FEN "r1bq1rk1/pp1n1pbp/2p1pnp1/3p4/4P3/3P1NP1/PPP2PBP/R1BQRNK1 w - - 2 10"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/SMVWfX3B#29"]
+[FEN "r4rk1/pp1nn1pp/1q1p1p2/3Pp3/2P5/4PN2/PP1QB1PP/3R1RK1 b - c3 0 15"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. Nf5 *
+
+
+[Event ""]
+[Site "https://lichess.org/MzP9pNbv#51"]
+[FEN "3r4/4kppp/p3pb2/1p6/1P1P4/P3BP1P/4KP2/2R5 b - - 0 26"]
+[Themes "endgame"]
+[Difficulty "1"]
+
+1. Kd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/Aek0FY1Y#35"]
+[FEN "rn5r/pp1n3p/4k3/2b3Bp/8/2P5/PP3PPP/RN2R1K1 b - - 1 18"]
+[Themes "initiative,endgame"]
+[Difficulty "2"]
+
+1. Kf5 *
+
+
+[Event ""]
+[Site "https://lichess.org/MZqQ3nhp#64"]
+[FEN "6k1/1pR2p1p/4p1p1/pP2P3/r4P2/2P3PK/7P/8 w - - 0 33"]
+[Themes "endgame"]
+[Difficulty "3"]
+
+1. Kg2 *
+
+
+[Event ""]
+[Site "https://lichess.org/MjATXKEw#27"]
+[FEN "r1bqr1k1/pp3pbp/2n2np1/3p4/7B/2P1PN2/PPB1N1PP/R2Q1RK1 b - - 0 14"]
+[Themes "coordination,exploitingweakness"]
+[Difficulty "1"]
+
+1. Qb6 *
+
+
+[Event ""]
+[Site "https://lichess.org/uAwR9l2o#15"]
+[FEN "r1bqk2r/pp3pbp/2n2np1/2ppp3/4P3/2NP1PN1/PPP1B1PP/R1BQK2R b KQkq - 0 8"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/WPBfiFZ2#36"]
+[FEN "r1bq1r1k/p5pp/3p4/2p2p2/2B1Pn2/2P2N1P/PP3PP1/R2QR1K1 w - - 0 19"]
+[Themes "initiative,fixingstructure"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/d2hf6MP1#12"]
+[FEN "r1bqk2r/pp1nbppp/2p1pn2/3p4/3PP3/2NB1N2/PPP2PPP/R1BQK2R w KQkq - 1 7"]
+[Themes "space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/TVKN8Mk0#20"]
+[FEN "r1bqk2r/pp2npbp/4pp2/2Pp3P/1PP2P2/4P3/P5P1/RN1QKBNR w KQkq - 1 11"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. h6 *
+
+
+[Event ""]
+[Site "https://lichess.org/F9vSWu0N#25"]
+[FEN "r1bk3r/2p2p1p/2p2p2/p3p3/8/2PB4/P1P2PPP/R4RK1 b - - 1 13"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/OwOAsXVt#32"]
+[FEN "r2q1rk1/1bpp1pp1/5n1p/8/p1p1PP2/2P1B2P/PPB3P1/R2Q1RK1 w - - 0 17"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/QnkjjgqS#30"]
+[FEN "r2q1rk1/ppp2ppp/5n2/7b/3pP3/1P3PP1/P1PN2BP/R2Q1R1K w - - 0 16"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. g4 *
+
+
+[Event ""]
+[Site "https://lichess.org/PlfJcpCa#16"]
+[FEN "rnb1k1nr/pp2bpp1/2pp3p/4p3/4P3/2NPBN1P/PPPQBPq1/R3K2R w KQkq - 0 9"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. O-O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/5U0oU179#36"]
+[FEN "r4rk1/1b1p1p1p/p1n3p1/1p1B4/8/P1N1q3/1P4PP/R2Q1R1K w - - 2 19"]
+[Themes "other"]
+[Difficulty "3"]
+
+1. Ne4 *
+
+
+[Event ""]
+[Site "https://lichess.org/uhJhuzOx#18"]
+[FEN "rnbqr1k1/pp3pbp/2p1pnp1/8/4P3/5NP1/PPPN1PBP/R1BQR1K1 w - - 1 10"]
+[Themes "development,space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/aLKyImUD#16"]
+[FEN "rnb1k2r/p1p1ppbp/1p4p1/4P3/5Bn1/5N2/PPP2PPP/R2NKB1R w KQkq - 0 9"]
+[Themes "development"]
+[Difficulty "3"]
+
+1. h3 *
+
+
+[Event ""]
+[Site "https://lichess.org/AnKlLKi0#24"]
+[FEN "r3kb1r/1pp1p1pp/8/pb1qNp2/2pPn3/B3P3/P1P2PPP/RN1Q1RK1 w kq - 2 13"]
+[Themes "development"]
+[Difficulty "2"]
+
+1. f3 *
+
+
+[Event ""]
+[Site "https://lichess.org/R6cswKfO#14"]
+[FEN "r1bqk1nr/1p2ppbp/p1np2p1/8/4P3/2N1BN2/PPPQ1PPP/R3KB1R w KQkq - 2 8"]
+[Themes "development"]
+[Difficulty "2"]
+
+1. Nd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/LnFyoRTR#43"]
+[FEN "r3r1k1/pp3pp1/2pb4/6qp/3Pp3/BP2P1P1/P4PKP/R1Q1R3 b - - 1 22"]
+[Themes "trading"]
+[Difficulty "4"]
+
+1. Bc7 *
+
+
+[Event ""]
+[Site "https://lichess.org/BpWEAKN2#22"]
+[FEN "r2q1rk1/pppb2pp/2n1p3/3n1p2/3PQ3/2PB1NP1/PP3PP1/R1B1K2R w KQ f6 0 12"]
+[Themes "trading"]
+[Difficulty "1"]
+
+1. Qe2 *
+
+
+[Event ""]
+[Site "https://lichess.org/QTRRy7jX#19"]
+[FEN "r1bq1k1r/pppnb1p1/4pnBp/8/3P4/5N2/PPP2PPP/R1BQ1RK1 b - - 5 10"]
+[Themes "development,coordination,kingsafety"]
+[Difficulty "2"]
+
+1. Kg8 *
+
+
+[Event ""]
+[Site "https://lichess.org/n2sLN1W6#34"]
+[FEN "2k4r/ppprbpp1/2n5/3p4/5N1p/2PP4/PP1N1P2/R1BR2K1 w - - 0 18"]
+[Themes "space,coordination"]
+[Difficulty "2"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/kmDKxA93#13"]
+[FEN "r1bqk2r/1pp2ppp/p1np1n2/2b1p3/P7/1PN1PB2/1BPP1PPP/R2QK1NR b KQkq - 1 7"]
+[Themes "development,space"]
+[Difficulty "2"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/6yP3xXqN#14"]
+[FEN "r2qkb1r/pb1ppppp/1p3n2/1B6/3QP3/2N5/PPP2PPP/R1B1K2R w KQkq - 3 8"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/5JHYW6VF#18"]
+[FEN "r1bqk2r/pp1pppbp/2n3pn/4P3/3PN3/5N2/PP1B1PPP/R2QKB1R w KQkq - 9 10"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/eLl8plx5#44"]
+[FEN "r6k/3qp1p1/p2p1r1p/2p1n3/4P3/1P1PB2P/1QP2PP1/R4RK1 w - - 3 23"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/iaxlemad#34"]
+[FEN "r1bq1rk1/1p5p/p1n1ppp1/2n5/2P5/NPB5/P1BPQ1PP/R4RK1 w - - 4 18"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. Qe3 *
+
+
+[Event ""]
+[Site "https://lichess.org/fMxTTkH9#54"]
+[FEN "1k2r1r1/pp6/2p5/3q1Pp1/3P2Qb/2BP1R2/PP6/R5K1 w - - 5 28"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. f6 *
+
+
+[Event ""]
+[Site "https://lichess.org/Y8SDRugA#48"]
+[FEN "1r2k3/5pp1/1p2pn2/1p6/3p1P2/P4BP1/1P1N1K1r/R1B5 w - - 3 25"]
+[Themes "initiative,kingsafety"]
+[Difficulty "2"]
+
+1. Kg1 *
+
+
+[Event ""]
+[Site "https://lichess.org/mJzPmaD1#28"]
+[FEN "r1b1kb1r/ppppn1p1/7p/3B2N1/4R3/8/PB3PPP/R5K1 w kq - 0 15"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Nf7 *
+
+
+[Event ""]
+[Site "https://lichess.org/iAfTnvWB#16"]
+[FEN "r3kbnr/pp2ppp1/n1p3q1/7p/3P2b1/P1N2B2/1PP1NPPP/R1BQK2R w KQkq - 1 9"]
+[Themes "initiative,trading"]
+[Difficulty "2"]
+
+1. Be4 *
+
+
+[Event ""]
+[Site "https://lichess.org/LYnb35eG#19"]
+[FEN "r1bq1rk1/pp2b1pp/2n1pn2/2p1Pp2/3p1P2/3P1NNP/PPP1Q1P1/R1B1KB1R b KQ - 0 10"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Nd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Ue2d4wTT#16"]
+[FEN "rn1q1rk1/ppp2pbp/3p1p2/6pP/3PP1b1/2N2N2/PPP2PP1/R2QKB1R w KQ - 0 9"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. h6 *
+
+
+[Event ""]
+[Site "https://lichess.org/BTt9NwvO#45"]
+[FEN "2kr3r/pp1nbb2/2p5/3p4/3PpNPp/4B3/PPP1B3/2K3RR b - - 5 23"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Rdg8 *
+
+
+[Event ""]
+[Site "https://lichess.org/qEOqsCz7#26"]
+[FEN "r2qnrk1/pp4pp/2npbp2/4p3/4PPPP/P1N1Q3/1PP5/2KR1BNR w - - 0 14"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/f3WLsWBv#34"]
+[FEN "r4rk1/1pqb1pbp/p1n3p1/4p3/3P4/PPNBPN1P/3Q1PP1/R1R3K1 w - e6 0 18"]
+[Themes "initiative,space,fixingstructure"]
+[Difficulty "2"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/HjYhngzu#49"]
+[FEN "2r2rk1/1p3p1p/pb1p2pQ/2pP4/1PPp2B1/PK1P2RP/5q2/6R1 b - - 1 25"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Rce8 *
+
+
+[Event ""]
+[Site "https://lichess.org/GCgnxEzt#22"]
+[FEN "r2qr1k1/pppb1pbp/2n1pnp1/8/P3P3/2PP1NP1/2QN1PBP/R1B2RK1 w - - 1 12"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/fc3zSX33#26"]
+[FEN "rnbq1rk1/2p1b1p1/pp2pn1p/7P/4pP2/2N2QPB/PPPBN3/R3K2R w KQ - 0 14"]
+[Themes "initiative,development,trading"]
+[Difficulty "3"]
+
+1. Qg2 *
+
+
+[Event ""]
+[Site "https://lichess.org/yQH7Nm4r#24"]
+[FEN "2kr3r/pbp2p2/1pnqpn1p/6p1/1P1P4/P2BPN2/5PPP/R1BQ1RK1 w - - 1 13"]
+[Themes "development,space,restriction"]
+[Difficulty "2"]
+
+1. b5 *
+
+
+[Event ""]
+[Site "https://lichess.org/JaZ5m5lz#19"]
+[FEN "r2qk2r/pp3ppp/2pp1n2/2b1p3/2B1P1b1/2NPBP2/PPP2P1P/R2Q1RK1 b kq - 0 10"]
+[Themes "development,trading"]
+[Difficulty "1"]
+
+1. Bh3 *
+
+
+[Event ""]
+[Site "https://lichess.org/7JfLIxBS#33"]
+[FEN "r4rk1/p3qppp/1p2p3/2pn4/3P4/5N2/PPPQ1PPP/2KR1R2 b - - 1 17"]
+[Themes "initiative,fixingstructure"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/VsvApXND#19"]
+[FEN "r1bq1rk1/pp1p1pp1/2n2n1p/4p2P/8/2N1P3/PPPQBPP1/R3K1NR b KQ - 2 10"]
+[Themes "development,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/AuHE8QbK#43"]
+[FEN "1nbr2k1/2p3pp/1p2p3/5p2/1qN5/1B1P4/2P2PPP/3QR1K1 b - - 3 22"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Nc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/irGL1k0h#19"]
+[FEN "r2qk2r/ppp2ppp/5n2/2p1p3/4P1b1/2NP1P1P/PPP2P2/R2QKB1R b KQkq - 0 10"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Be6 *
+
+
+[Event ""]
+[Site "https://lichess.org/0sXUIygZ#36"]
+[FEN "r1b2qk1/ppp1n1b1/3p4/3Pp2Q/2B4B/3P4/PPP3PP/R5K1 w - - 0 19"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Rf1 *
+
+
+[Event ""]
+[Site "https://lichess.org/KDb782rv#32"]
+[FEN "2rq1rk1/3bbpp1/p1n1p2p/1p1pPn2/BP1P4/P1NQBN2/5PPP/2R2RK1 w - b6 0 17"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Bc2 *
+
+
+[Event ""]
+[Site "https://lichess.org/x2sSdBDt#17"]
+[FEN "r2qkb1r/pp3ppp/2n1pnb1/3p4/5BPP/2N1PP2/PPP5/R2QKBNR b KQkq - 2 9"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. h5 *
+
+
+[Event ""]
+[Site "https://lichess.org/yqAO0og9#20"]
+[FEN "r2qk1r1/ppp2pp1/2n2n1p/4p1Q1/6b1/2P4P/PP1P1PP1/RNB1KBNR w KQq - 0 11"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Qe3 *
+
+
+[Event ""]
+[Site "https://lichess.org/5H3i43Gp#33"]
+[FEN "r3k2r/1p3ppb/1qp1p2p/3pP3/pb2PBPP/4QP2/PPP3B1/2KR3R b kq - 1 17"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. Bc5 *
+
+
+[Event ""]
+[Site "https://lichess.org/ye4E3KsD#13"]
+[FEN "r2qkbnr/pp2pppp/3p4/2p5/4P1b1/1P1P1N2/PB1PQPPP/RN2K2R b KQkq - 2 7"]
+[Themes "space,prophylaxis,fixingstructure"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/BNrG6PlY#26"]
+[FEN "2k4r/1b1rqpbp/p1p1pnp1/1p6/4P3/2N2N2/PPPB1PPP/1RQ1R1K1 w - - 8 14"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/n6RTqUTJ#30"]
+[FEN "r1b2rk1/2qp1pbp/p3p1p1/4P3/1p3PPP/2NQB3/PPP5/2KR3R w - - 0 16"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Ne4 *
+
+
+[Event ""]
+[Site "https://lichess.org/jaiWXl0b#28"]
+[FEN "r3kb1r/ppp2ppp/4p3/3qN3/3Pb3/4B2P/PPPQ1PP1/2KR3R w kq - 0 15"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/ON7OstRm#19"]
+[FEN "r1bqk2r/ppp2pp1/2nppn1p/8/2PP4/P1PB1Q1N/5PPP/R1B2RK1 b kq - 1 10"]
+[Themes "space,fixingstructure"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/pCtW6cEH#27"]
+[FEN "r1bqkb1r/p2n4/2p5/1p2B2p/3Qp3/2P1P3/PP3PPP/RN3RK1 b kq - 0 14"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. Rh6 *
+
+
+[Event ""]
+[Site "https://lichess.org/BZQ6oc9x#20"]
+[FEN "r3k2r/pppqbp1p/5p2/3P1b2/3p4/3P4/PPPNQPPP/2KR1B1R w kq - 4 11"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Re1 *
+
+
+[Event ""]
+[Site "https://lichess.org/BZQ6oc9x#22"]
+[FEN "2kr3r/pppqbp1p/5p2/3P1b2/3p4/3P3P/PPPNQPP1/2KR1B1R w - - 1 12"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. g4 *
+
+
+[Event ""]
+[Site "https://lichess.org/qAfWhZWU#24"]
+[FEN "rn2k2r/pp2ppb1/3q3p/3N2p1/3P2b1/5NP1/PPPQBPP1/R3K2R w KQkq - 1 13"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Ne3 *
+
+
+[Event ""]
+[Site "https://lichess.org/zXWhKMRu#34"]
+[FEN "r1b2rk1/pp1pnp1p/6p1/1q2p1N1/3R4/P1P5/1PQ1PPPP/1K3B1R w - - 0 18"]
+[Themes "restriction"]
+[Difficulty "2"]
+
+1. Rd6 *
+
+
+[Event ""]
+[Site "https://lichess.org/zjGOhvBt#74"]
+[FEN "5r2/1B3pkp/5Np1/2P5/8/P3n3/KP5P/8 w - - 5 38"]
+[Themes "endgame,trading,coordination"]
+[Difficulty "1"]
+
+1. Nd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/KE9O2mUP#37"]
+[FEN "3r1r2/pp3pkn/2nq3p/3p2pQ/P2Pp3/2P3PP/BP1N2PK/R4R2 b - - 6 19"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/iRHv7Pst#14"]
+[FEN "r1bqkbnr/3p1ppp/p3p3/1p1P4/1nB1P3/5N2/PP3PPP/RNBQK2R w KQkq - 1 8"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Bb3 *
+
+
+[Event ""]
+[Site "https://lichess.org/T7sbIiPV#32"]
+[FEN "r1b2rk1/1p4pp/p2qp1p1/3p4/2PP4/5N2/P1PQ1PPP/R4RK1 w - - 0 17"]
+[Themes "space,restriction,fixingstructure"]
+[Difficulty "1"]
+
+1. c5 *
+
+
+[Event ""]
+[Site "https://lichess.org/eRjrfutE#36"]
+[FEN "1k1rqbn1/p1p3p1/Ppb1p3/4r3/1P4Qp/2NBB2P/2P3P1/R4RK1 w - - 0 19"]
+[Themes "initiative,coordination,restriction"]
+[Difficulty "3"]
+
+1. Bg6 *
+
+
+[Event ""]
+[Site "https://lichess.org/edfVAVTg#22"]
+[FEN "rn2k2r/1bqpbpp1/pp2p3/6Bp/2PN2n1/1PN1PB2/P4PPP/R2Q1RK1 w kq - 2 12"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Bf4 *
+
+
+[Event ""]
+[Site "https://lichess.org/tdffk5ng#24"]
+[FEN "r3k2r/pp3ppp/1qn1p3/3pPn2/1b1P1P2/3Q1N2/PP2N1PP/R1B2RK1 w kq - 9 13"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. g4 *
+
+
+[Event ""]
+[Site "https://lichess.org/VgTz9iop#27"]
+[FEN "r3kb1r/pp3p1p/2q1p1p1/3pP3/2pP1P2/2P3QP/P1P3P1/R1B2RK1 b kq f3 0 14"]
+[Themes "exploitingweakness,restriction"]
+[Difficulty "3"]
+
+1. Qa4 *
+
+
+[Event ""]
+[Site "https://lichess.org/GwPGFUxY#30"]
+[FEN "r2q2k1/ppp1nrbp/3p1np1/3Pp3/2P1PpP1/2N2B1P/PP1B1P1K/R2QR3 w - - 3 16"]
+[Themes "space,exploitingweakness"]
+[Difficulty "3"]
+
+1. g5 *
+
+
+[Event ""]
+[Site "https://lichess.org/OE86C1Z2#30"]
+[FEN "1r1q1rk1/3n1pbp/1p2p1p1/p1p4n/P1P1P3/1P3NP1/1B3PBP/1R1QR1K1 w - - 1 16"]
+[Themes "space,exploitingweakness,restriction"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/ZbmNGuOp#25"]
+[FEN "3rk2r/p3ppbp/1pn2np1/2p5/Q7/2Pq1N1P/PP1N1PP1/R1B2RK1 b k - 1 13"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Qd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/02PzHrLk#66"]
+[FEN "r7/6kp/p1pr2p1/8/1P2P2P/Pn1B2K1/7P/3R1R2 w - - 7 34"]
+[Themes "initiative,endgame"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/46IlqaSP#59"]
+[FEN "6k1/1p1n1b1p/p1p2qp1/2Pp1p2/1P6/P1P2B1Q/3B2PP/6K1 b - - 3 30"]
+[Themes "development,space,coordination"]
+[Difficulty "2"]
+
+1. g5 *
+
+
+[Event ""]
+[Site "https://lichess.org/jnByd6bm#33"]
+[FEN "1kqr3r/ppp3p1/2n2p2/1QP1p2p/2Pp2nP/P2P1NP1/4PPK1/1RB2R2 b - - 4 17"]
+[Themes "prophylaxis"]
+[Difficulty "1"]
+
+1. Ka8 *
+
+
+[Event ""]
+[Site "https://lichess.org/fsAXk1Ii#48"]
+[FEN "3rkb1r/pp3p2/8/2p4p/2n1P3/2N5/PP2RPP1/R1B2K2 w k - 0 25"]
+[Themes "development"]
+[Difficulty "2"]
+
+1. Nd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/4RXcNKqG#46"]
+[FEN "5rk1/pbp3p1/1p1p3p/3Ppr1q/2P1N1p1/6Q1/PP2PPK1/2BRR3 w - - 4 24"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Rh1 *
+
+
+[Event ""]
+[Site "https://lichess.org/vrYp4THi#37"]
+[FEN "2r1r1k1/ppq2p1p/5npP/3p4/2pP4/2P2P2/PP1QN2P/2KR3R b - - 0 19"]
+[Themes "restriction"]
+[Difficulty "4"]
+
+1. Nh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/R24WtzFi#29"]
+[FEN "r1bq1rk1/1pp1b1p1/p1n4p/4pp2/2N5/1P1P1N2/P1P1BPPP/R2Q1RK1 b - - 3 15"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Bf6 *
+
+
+[Event ""]
+[Site "https://lichess.org/oMDVs2Hl#11"]
+[FEN "rnbqk2r/ppppppbp/6p1/6N1/2B5/2P5/PPP2PPP/R1BQK2R b KQkq - 3 6"]
+[Themes "kingsafety"]
+[Difficulty "2"]
+
+1. e6 *
+
+
+[Event ""]
+[Site "https://lichess.org/UL93AyzD#38"]
+[FEN "r1bq1rk1/1p4bp/p3ppp1/P2pN3/3P4/2P3P1/1P2QPBP/R2R2K1 w - - 0 20"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Nd3 *
+
+
+[Event ""]
+[Site "https://lichess.org/kGm8UpTB#19"]
+[FEN "rn1q1rk1/pbp2pbp/1p2pnp1/4P3/2P5/1P3N2/PB1N1PPP/R2QKB1R b KQ - 0 10"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Nfd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/c0HalUYO#29"]
+[FEN "r1b2rk1/pp3ppp/4pq2/2p5/2P2b2/2N2N1P/PP2QPP1/R4RK1 b - - 0 15"]
+[Themes "development,coordination"]
+[Difficulty "3"]
+
+1. b6 *
+
+
+[Event ""]
+[Site "https://lichess.org/CDrUjjhs#25"]
+[FEN "r4rk1/pppq2pp/2npb3/4p1bn/4P2P/1PNP4/PBP1N1P1/1K1RQB1R b - h3 0 13"]
+[Themes "space,coordination,restriction"]
+[Difficulty "2"]
+
+1. Be3 *
+
+
+[Event ""]
+[Site "https://lichess.org/HyMyxNvG#105"]
+[FEN "8/8/6pk/3K1p1p/3R4/3B4/5r2/8 b - - 3 53"]
+[Themes "endgame"]
+[Difficulty "2"]
+
+1. Kg5 *
+
+
+[Event ""]
+[Site "https://lichess.org/mSSW9kAN#67"]
+[FEN "1r4k1/6pp/3p1p2/2p1p3/2P1P3/1P3P2/2K3P1/7R b - - 2 34"]
+[Themes "development,endgame"]
+[Difficulty "1"]
+
+1. Ra8 *
+
+
+[Event ""]
+[Site "https://lichess.org/IgyP0v0j#12"]
+[FEN "r1bqk1nr/ppp2p1p/2np3b/4p1N1/4P1Q1/2NP4/PPP2PPP/R1B1KB1R w KQkq - 0 7"]
+[Themes "initiative,coordination"]
+[Difficulty "1"]
+
+1. Qh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/sUY8ZYMe#38"]
+[FEN "5r2/p2rn1kp/2ppqpp1/2pN4/4PP2/P2Q4/1PP3PP/4RRK1 w - - 0 20"]
+[Themes "initiative,space,coordination"]
+[Difficulty "2"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/sUY8ZYMe#74"]
+[FEN "8/p1r3k1/6p1/3p3p/1Pp2P2/P1RK2P1/7P/8 w - - 0 38"]
+[Themes "endgame"]
+[Difficulty "1"]
+
+1. Kd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/bbbaJepf#28"]
+[FEN "r4rk1/pp3ppp/5q2/3pnB2/8/4P3/PPP2PPP/R2Q1RK1 w - - 2 15"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. Bh3 *
+
+
+[Event ""]
+[Site "https://lichess.org/q20jS8pS#26"]
+[FEN "rn3rk1/pbpq1p1p/1p1p1bp1/3Pp3/2P1PP2/2N3PP/PP4B1/R1BQ1RK1 w - e6 0 14"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/peWfVgWi#58"]
+[FEN "3r1r1k/5pb1/7p/4pNq1/1p2B3/2PP2PQ/1P2KP2/1R6 w - - 0 30"]
+[Themes "initiative,space,prophylaxis"]
+[Difficulty "4"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/GIO8ncXR#23"]
+[FEN "r1bq1k1r/pp3p2/2nb1n1p/2p3p1/2Pp4/P2P1NP1/1P1B1PBP/RN1QR1K1 b - - 0 12"]
+[Themes "prophylaxis"]
+[Difficulty "3"]
+
+1. a5 *
+
+
+[Event ""]
+[Site "https://lichess.org/VX9I5eeq#74"]
+[FEN "8/p7/3b4/3N2k1/8/4PK2/P7/8 w - - 5 38"]
+[Themes "endgame"]
+[Difficulty "2"]
+
+1. Ke4 *
+
+
+[Event ""]
+[Site "https://lichess.org/XCT59Pqz#22"]
+[FEN "r2q1rk1/p1p2ppp/bp3n2/2bp4/3pP3/P2P3P/BPP1NPP1/R1BQK2R w KQ d6 0 12"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/XCT59Pqz#24"]
+[FEN "r2q1rk1/p1p1bppp/bp3n2/3p4/1P1pP3/P2P3P/B1P1NPP1/R1BQK2R w KQ - 1 13"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/ZrBZQrOP#36"]
+[FEN "2kr2nr/pp1q2b1/2pp1p2/3N2pp/1PQ1P3/P7/1B3PPP/1R3RK1 w - - 0 19"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. b5 *
+
+
+[Event ""]
+[Site "https://lichess.org/kMBjnO0s#20"]
+[FEN "2b1k1nr/3p1ppp/pq2p3/2b5/1pP3n1/6P1/PP2PPBP/RNBQ1RK1 w k - 3 11"]
+[Themes "coordination,restriction"]
+[Difficulty "1"]
+
+1. e3 *
+
+
+[Event ""]
+[Site "https://lichess.org/R0AYwnjv#16"]
+[FEN "rbbqk2r/1p1p1ppp/p1n1pn2/8/2PP4/5N1P/PP2BPP1/RNBQ1RK1 w kq - 4 9"]
+[Themes "initiative,space,restriction"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Aipqpf5i#28"]
+[FEN "rr4k1/p2nbpp1/2p1pnbp/2Pp4/3P4/1N2PN1P/1P3PP1/R1B1KB1R w KQ - 2 15"]
+[Themes "initiative,development,exploitingweakness"]
+[Difficulty "1"]
+
+1. Na5 *
+
+
+[Event ""]
+[Site "https://lichess.org/SAo91WFW#18"]
+[FEN "r1bq1rk1/ppp1bpp1/3p1n1p/4N3/2BnP3/2NP2B1/PPP2PPP/R2QK2R w KQ - 0 10"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Ng6 *
+
+
+[Event ""]
+[Site "https://lichess.org/XUG8NnyE#28"]
+[FEN "rn1q1knr/pb1p4/1p2pp2/2b4B/4P2p/2P4P/PP1N2P1/R1BQNRK1 w - - 0 15"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. Kh1 *
+
+
+[Event ""]
+[Site "https://lichess.org/ZlXmODD4#22"]
+[FEN "r2q1r1k/ppp1b1pp/2np1nb1/6B1/6P1/1BN1PN1P/PPP2P2/R2QK2R w KQ - 1 12"]
+[Themes "initiative,development,coordination"]
+[Difficulty "2"]
+
+1. Nh4 *
+
+
+[Event ""]
+[Site "https://lichess.org/eVMMt8JW#33"]
+[FEN "r2r1bk1/1p3ppp/p1np1n2/2p3N1/2B2B2/7P/PPP2PP1/3RR1K1 b - - 1 17"]
+[Themes "space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/wqnhfKLc#27"]
+[FEN "r2qkb1r/5pp1/p3pn1p/1p2Nb2/1PpP1B2/2P5/P3BPPP/R2QK2R b KQkq - 1 14"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Nd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/79jwgziX#15"]
+[FEN "r1bqkb1r/pp2pppp/2n2n2/6N1/3P4/5N2/PP3PPP/R1BQKB1R b KQkq - 0 8"]
+[Themes "prophylaxis"]
+[Difficulty "1"]
+
+1. h6 *
+
+
+[Event ""]
+[Site "https://lichess.org/PfP6CRw9#22"]
+[FEN "r1b1k2r/1p1n1ppp/p1pBp3/q7/2BPn3/4PN2/P1P2PPP/R2Q1RK1 w kq - 3 12"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. Bf4 *
+
+
+[Event ""]
+[Site "https://lichess.org/vCpTXs3J#48"]
+[FEN "5rk1/5ppp/p4n2/qpQp4/N2P4/1P3P1P/P3R1P1/6K1 w - b6 0 25"]
+[Themes "restriction"]
+[Difficulty "2"]
+
+1. Nb6 *
+
+
+[Event ""]
+[Site "https://lichess.org/2ckpoxIK#39"]
+[FEN "5rk1/Q3npbp/4p1p1/3p4/8/3P2NP/1Pq2PP1/2B2RK1 b - - 0 20"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Nc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/YPAZPFGR#32"]
+[FEN "r2q1rk1/4np1p/1pb1p1p1/p1p1P3/8/2N1PP2/PPQB2PP/2KR3R w - a6 0 17"]
+[Themes "development,space,restriction"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/dJaXDqR0#33"]
+[FEN "r3r1k1/ppp1q1b1/2b1p1pp/4N3/2N5/8/PP3PPP/R2QR1K1 b - - 1 17"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Bd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/nAcU8Jav#32"]
+[FEN "r2q2k1/ppp3bp/3p2p1/3Nnr2/8/2P1B1P1/PP3P1P/R2QR1K1 w - - 0 17"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/Xdx4v6Ik#21"]
+[FEN "r2q1rk1/1pp2ppp/p1nbbn2/3p4/3P3N/2PB3P/PP1B1PP1/RN1Q1RK1 b - - 3 11"]
+[Themes "initiative,development"]
+[Difficulty "2"]
+
+1. Ne4 *
+
+
+[Event ""]
+[Site "https://lichess.org/B8oWBDnW#16"]
+[FEN "rnbq1rk1/pp2bppp/4pn2/3p4/1P1PP3/2P5/2B2PPP/RNBQK1NR w KQ - 0 9"]
+[Themes "space,fixingstructure"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/A84YW1KR#13"]
+[FEN "rn1qkbnr/1b1p1ppp/p3p3/1p6/3NB3/2N1P3/PPP2PPP/R1BQK2R b KQkq - 3 7"]
+[Themes "initiative,trading"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/OTrtR8Of#30"]
+[FEN "r4rk1/2p1nppp/3qb3/pp6/3Pn2N/PB2P3/1P3PPP/R1BQR1K1 w - - 0 16"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Bc2 *
+
+
+[Event ""]
+[Site "https://lichess.org/W114qexS#17"]
+[FEN "r2qkb1r/pp3ppp/4pn2/1bppN3/P2P4/4P3/1PP2PPP/RNBQK2R b KQkq a3 0 9"]
+[Themes "trading,restriction"]
+[Difficulty "1"]
+
+1. Ba6 *
+
+
+[Event ""]
+[Site "https://lichess.org/t4tWGrta#29"]
+[FEN "r4rk1/ppp1bp1p/6pB/8/4n3/2P4P/PP3P1P/RN3RK1 b - - 0 15"]
+[Themes "development,restriction"]
+[Difficulty "2"]
+
+1. Rfd8 *
+
+
+[Event ""]
+[Site "https://lichess.org/g9TVSHjp#16"]
+[FEN "r1bq1rk1/p2nbppp/1pp1pn2/3p4/3PP3/2NB1N2/PPPBQPPP/R3K2R w KQ - 0 9"]
+[Themes "initiative,space,fixingstructure"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/4UgpyMJe#38"]
+[FEN "r4rk1/5pp1/p1R1pn1p/1p1p4/1P1P4/P2PP1P1/3N1PP1/5RK1 w - - 0 20"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Nb3 *
+
+
+[Event ""]
+[Site "https://lichess.org/8ooN1j6q#24"]
+[FEN "r2q1rk1/4nppp/p1bbp3/1p1p4/2pPPP2/2P5/PPBN2PP/R1BQ1RK1 w - - 0 13"]
+[Themes "space,restriction"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/lI4HvMAt#29"]
+[FEN "r2q1rk1/ppp1bppp/1n6/2p1P3/4QP2/5N2/PP4PP/R1B2RK1 b - - 2 15"]
+[Themes "development,trading"]
+[Difficulty "1"]
+
+1. Qd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/NZyrYcQC#52"]
+[FEN "r5rk/pp4pp/2p5/2QnR1Bq/7P/3B1b2/1PP5/2K1R3 w - - 0 27"]
+[Themes "initiative,restriction"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/oqRaeIK0#24"]
+[FEN "r1b2rk1/pp3ppp/2nRpn2/q7/2B1P3/5N2/PP2QPPP/R1B3K1 w - - 1 13"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/2HfJ4K1o#44"]
+[FEN "2kr3r/ppp5/4p2p/5pp1/1PPPq3/1Q2P1P1/P4PP1/R1R3K1 w - g6 0 23"]
+[Themes "initiative,restriction"]
+[Difficulty "2"]
+
+1. f3 *
+
+
+[Event ""]
+[Site "https://lichess.org/e8PHAWqf#80"]
+[FEN "4Q3/6pk/6p1/p1q2r1n/5P1R/P2P3P/5R1K/8 w - - 1 41"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Rg2 *
+
+
+[Event ""]
+[Site "https://lichess.org/Ce2Bk3wa#34"]
+[FEN "2rq1rk1/p3bppp/b3p3/3pP3/1P1P4/P1N1RN1P/2P3P1/R2Q2K1 w - - 1 18"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Na4 *
+
+
+[Event ""]
+[Site "https://lichess.org/k737gOkN#15"]
+[FEN "r1bqk1nr/pppp1ppp/2n5/8/2B1P3/1Q6/PB1K1PPP/R5NR b kq - 0 8"]
+[Themes "coordination,kingsafety"]
+[Difficulty "3"]
+
+1. Qe7 *
+
+
+[Event ""]
+[Site "https://lichess.org/V9PahlRG#27"]
+[FEN "r2q1rk1/ppp2ppp/2n1pnb1/6P1/3P4/2N1B2P/PPP2Q2/2KR1B1R b - - 0 14"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Nd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Fsn48Oc1#60"]
+[FEN "4r1k1/pp3ppp/8/3p1bP1/8/4K1P1/P6P/R3R3 w - - 3 31"]
+[Themes "endgame"]
+[Difficulty "1"]
+
+1. Kd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/c6reje2L#24"]
+[FEN "r2q1rk1/pp2bppp/1npp1n2/4p3/PP2P3/1BPPB3/5PPP/RN1Q1RK1 w - - 0 13"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. a5 *
+
+
+[Event ""]
+[Site "https://lichess.org/qiaT4401#40"]
+[FEN "1r2k2r/3nbp2/7p/p3p1p1/Pp2P3/5P2/NP1B1P1P/2RR2K1 w k - 0 21"]
+[Themes "development,restriction"]
+[Difficulty "2"]
+
+1. Be3 *
+
+
+[Event ""]
+[Site "https://lichess.org/5vTx4YHk#50"]
+[FEN "2rr2k1/1b2pp1p/3q2p1/3Pb3/1p6/1BP1B2P/1P1Q2P1/3R1RK1 w - - 0 26"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/OV2TgtVH#24"]
+[FEN "r1b2rk1/ppqp1ppp/2n2n2/4p3/NP2P3/2P1BP2/P5PP/R2QKB1R w KQ - 1 13"]
+[Themes "development,restriction"]
+[Difficulty "1"]
+
+1. Bc5 *
+
+
+[Event ""]
+[Site "https://lichess.org/CkqWRtge#33"]
+[FEN "r3r1k1/p2b1ppp/2p2n2/2Bp4/8/3P2N1/PqP3PP/R2Q1RK1 b - - 0 17"]
+[Themes "restriction"]
+[Difficulty "2"]
+
+1. Qc3 *
+
+
+[Event ""]
+[Site "https://lichess.org/iWwmLzL4#39"]
+[FEN "2k4r/p1p1nppp/1p2p1b1/1B2P3/6PP/P3N3/1PP5/4KR2 b - h3 0 20"]
+[Themes "space,prophylaxis"]
+[Difficulty "1"]
+
+1. h5 *
+
+
+[Event ""]
+[Site "https://lichess.org/WUQGfC9l#29"]
+[FEN "r1b1k2r/pp3ppp/4p3/4b3/8/2P5/P3BPPP/R1BR2K1 b kq - 0 15"]
+[Themes "prophylaxis"]
+[Difficulty "2"]
+
+1. Bd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/7mx0i0XS#71"]
+[FEN "5rk1/pp2qp2/4p1p1/3p2R1/3P4/P5QP/4RPPK/5r2 b - - 0 36"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Qf6 *
+
+
+[Event ""]
+[Site "https://lichess.org/ag8NYXUm#44"]
+[FEN "2k4r/pp1r1p1n/2n5/2p1pNR1/3pP2p/P2P1P1P/1PP2P1K/R6B w - - 1 23"]
+[Themes "initiative,restriction"]
+[Difficulty "2"]
+
+1. Rh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/kCgc34E9#31"]
+[FEN "2r2rk1/pp1q1ppp/2n5/5p2/3Pp3/P1P1P1P1/1BQ2P1P/R4RK1 b - - 2 16"]
+[Themes "coordination,exploitingweakness"]
+[Difficulty "2"]
+
+1. Na5 *
+
+
+[Event ""]
+[Site "https://lichess.org/gJcgDpeh#28"]
+[FEN "r1b2rk1/pp2qppp/4pnn1/6B1/8/6N1/PPP1BPPP/R2Q1RK1 w - - 8 15"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Nh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/gDLlFpvd#20"]
+[FEN "rnbq1rk1/pp2n1b1/2p1p1pp/5p2/3PN3/2PB1N2/PP2QPPP/R1B2RK1 w - f6 0 11"]
+[Themes "exploitingweakness"]
+[Difficulty "1"]
+
+1. Nc5 *
+
+
+[Event ""]
+[Site "https://lichess.org/NKgrS2uI#44"]
+[FEN "r4rk1/3n1ppp/4q3/p1p1P1b1/PpN5/1P3Q2/1B3PPP/2R2RK1 w - - 3 23"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Rcd1 *
+
+
+[Event ""]
+[Site "https://lichess.org/oKLtrdPD#21"]
+[FEN "rn1qk2r/1bpn1pbp/p3p1p1/3p4/2P1P3/P1NP1N1P/1B2BPP1/R2QK2R b KQkq - 2 11"]
+[Themes "space,restriction"]
+[Difficulty "3"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/k7YIm1Nv#32"]
+[FEN "r1br2k1/3p1pp1/1p3q1p/p1p5/4P3/2P1QP2/P1P1B1PP/3R1RK1 w - - 0 17"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/TMSwmmTx#40"]
+[FEN "r1q2rk1/4p2p/p2p1pp1/2pP1b2/2p2P2/P3PN1P/1PP3P1/R3QRK1 w - - 1 21"]
+[Themes "space,restriction"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/WATSlnzN#29"]
+[FEN "r2q1r1k/1b1n1pp1/p3pb1p/1p1p4/3P2PP/2NBPN2/PPQ2P2/2KR3R b - h3 0 15"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/vqLUsMW9#22"]
+[FEN "2kr1b1r/pppq2pp/1n1p2n1/5b2/2PP1B2/1B3N2/PP4PP/RN1QR1K1 w - - 1 12"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Bg3 *
+
+
+[Event ""]
+[Site "https://lichess.org/vqLUsMW9#53"]
+[FEN "2k2r2/pppq2p1/1n1p2n1/3P2BB/2P5/2Q3Pp/PP5P/4R1K1 b - - 0 27"]
+[Themes "initiative"]
+[Difficulty "3"]
+
+1. Ne5 *
+
+
+[Event ""]
+[Site "https://lichess.org/zhwmdc5w#21"]
+[FEN "r1bq1rk1/p3n1pp/2pb4/2p1pp2/3pP3/3P2NP/PPP2PPN/R1BQ1RK1 b - - 1 11"]
+[Themes "initiative,space,restriction"]
+[Difficulty "1"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/GTwErWxd#15"]
+[FEN "r1bqk2r/pp2b1pp/2nppn2/2p3N1/2B1P3/8/PPPP2PP/RNBQ1RK1 b kq - 3 8"]
+[Themes "development,restriction"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/NekTvAFp#15"]
+[FEN "r1bqkb1r/pp2pppp/2p2n2/2n5/2Q5/3P4/PPP2PPP/RNB1KBNR b KQkq - 2 8"]
+[Themes "development,space,coordination"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/dsndwrWc#16"]
+[FEN "rn1q1rk1/ppp2ppp/2bbpn2/8/2BP4/2N1PN2/PP2QPPP/R1B2RK1 w - - 5 9"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/vlISg8jP#29"]
+[FEN "r1b2rk1/p4ppp/2pb1n1q/1p1p4/5P2/1PNQP1R1/P1P1B1PP/R1B3K1 b - - 0 15"]
+[Themes "development,space,coordination"]
+[Difficulty "1"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/LGWRXVDC#31"]
+[FEN "1r1q1rk1/3bbppp/p3p2n/2p1P3/2Pp1B2/PP3N2/3N1PPP/R2Q1RK1 b - - 1 16"]
+[Themes "initiative,space"]
+[Difficulty "3"]
+
+1. g5 *
+
+
+[Event ""]
+[Site "https://lichess.org/43GxGiCi#44"]
+[FEN "3q1k1r/4b3/1pQpPp1p/7b/8/7P/PP3PP1/R3K2R w KQ - 0 23"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. Qd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/FUpKRXkB#26"]
+[FEN "rn2kb1r/5pp1/b1p1p2p/8/pp1PN2q/2P5/PPB1QPPP/R1B2RK1 w kq - 0 14"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/Um0Y1YKs#24"]
+[FEN "r1b1k2r/1p2bpp1/1qn1p2p/p2pP3/1P1P4/P2BPN2/6PP/RN1Q1RK1 w kq a6 0 13"]
+[Themes "space,restriction"]
+[Difficulty "1"]
+
+1. b5 *
+
+
+[Event ""]
+[Site "https://lichess.org/8GINZcm8#16"]
+[FEN "rnbq1rk1/1pp2ppp/p2bpn2/8/2BP4/P1N1PN2/1P1B1PPP/R2QK2R w KQ - 0 9"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/fOVUKacC#20"]
+[FEN "r3kbnr/pp1nqppp/8/2pP4/8/5N2/PP2QPPP/RNB1K2R w KQkq - 0 11"]
+[Themes "development,trading"]
+[Difficulty "2"]
+
+1. Be3 *
+
+
+[Event ""]
+[Site "https://lichess.org/2avxSLvj#15"]
+[FEN "r1bqk2r/pp2ppbp/2n3pn/2p1P1N1/2Bp1P2/1QP5/PP1P2PP/RNB1K2R b KQkq - 5 8"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/dc8OKy8G#18"]
+[FEN "rnbqk1r1/pp3p1p/2p1pPp1/3p1n2/3P4/2PB1N2/PP3PPP/RN1QK2R w KQq - 1 10"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. g4 *
+
+
+[Event ""]
+[Site "https://lichess.org/7HEYb1nn#33"]
+[FEN "r4rk1/ppp3pp/2p3p1/2q1p1P1/4Pn2/P1NP3P/1PPQ1P2/2KR3R b - - 1 17"]
+[Themes "initiative,exploitingweakness"]
+[Difficulty "2"]
+
+1. Ne6 *
+
+
+[Event ""]
+[Site "https://lichess.org/bUaZ3acP#27"]
+[FEN "2kr1b1r/pbppq1p1/1p5p/8/1PPnp3/P3B1P1/4PPBP/R2QK1NR b KQ - 3 14"]
+[Themes "initiative,coordination"]
+[Difficulty "1"]
+
+1. Nf5 *
+
+
+[Event ""]
+[Site "https://lichess.org/rD6xh1IC#15"]
+[FEN "rnbqkb1r/p4ppp/2p1pn2/1p6/P2P4/1QN1P3/5PPP/R1B1KBNR b KQkq - 0 8"]
+[Themes "space,restriction,fixingstructure"]
+[Difficulty "1"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/P3x8p2e1#46"]
+[FEN "bkr4r/p7/Pp1pqpp1/3p1N2/R6p/3QP3/1PP2PPP/4K2R w K - 0 24"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Nd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/BI5tq8ga#44"]
+[FEN "1k1r3r/ppp1b1pp/q1n5/8/3pPB2/P5PP/5PB1/1R1Q1RK1 w - - 4 23"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/r4DZUaB1#53"]
+[FEN "3r2k1/1p3p2/p7/3rP2p/1P2bPpb/P1B5/5PN1/2R2RK1 b - - 1 27"]
+[Themes "trading"]
+[Difficulty "1"]
+
+1. Be7 *
+
+
+[Event ""]
+[Site "https://lichess.org/sGuKXMaV#48"]
+[FEN "r2q1r1k/4n1pp/5p2/2pP4/4P3/P4QPP/6B1/R4RK1 w - - 0 25"]
+[Themes "initiative,endgame"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/kBaJAgsa#18"]
+[FEN "r1b1k2r/ppppnppp/5q2/8/1n2P3/1NN1Q3/PPP2PPP/R3KB1R w KQkq - 1 10"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. O-O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/gcbcbZL3#48"]
+[FEN "3r2k1/pp3p1p/1b1P1pp1/8/P7/6P1/5P1P/3Q2K1 w - - 1 25"]
+[Themes "endgame"]
+[Difficulty "1"]
+
+1. Qd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/NlM8hDN9#66"]
+[FEN "r4rk1/6b1/5pb1/2Np4/1Q1P1Pp1/pP4P1/P4B2/2K5 w - - 0 34"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. Qb7 *
+
+
+[Event ""]
+[Site "https://lichess.org/BYmUmLKG#18"]
+[FEN "r1b1k2r/ppp2ppp/2n1pq2/8/1bPP4/3BBN2/PP3PPP/R2QK2R w KQkq - 7 10"]
+[Themes "initiative,development"]
+[Difficulty "3"]
+
+1. Kf1 *
+
+
+[Event ""]
+[Site "https://lichess.org/30RxrX6q#35"]
+[FEN "r3k3/pppn1p1p/3p1q2/3Pp3/1r6/3B3Q/P1PP3P/2KR1R2 b q - 3 18"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Qh4 *
+
+
+[Event ""]
+[Site "https://lichess.org/K7q9hxd6#22"]
+[FEN "r3k2r/1b1nbppp/pq2pn2/1ppp4/4PB2/2PP1N2/PP1NBPPP/2RQR1K1 w kq - 0 12"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/nyYbWVkE#82"]
+[FEN "8/8/7p/ppk1bP1N/3p2p1/1P1K4/P1P3P1/8 w - - 5 42"]
+[Themes "endgame"]
+[Difficulty "2"]
+
+1. Ke4 *
+
+
+[Event ""]
+[Site "https://lichess.org/1gbyyXq8#28"]
+[FEN "r1b1k1r1/p3bp1p/2p1p2p/q2pP3/3P4/P1N2N1P/1PQ2PP1/R3K2R w KQq - 1 15"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/MwVPPt3F#46"]
+[FEN "4kq1r/2ppn3/1p2p1p1/1P2PpPp/3P3P/2B2R2/2P3P1/Q5K1 w k - 1 24"]
+[Themes "initiative,restriction"]
+[Difficulty "2"]
+
+1. Bb4 *
+
+
+[Event ""]
+[Site "https://lichess.org/7CzqpQqu#26"]
+[FEN "r2q1rk1/pp4bp/3ppnp1/8/3pP2Q/3P4/PPP1B1PP/R1B2RK1 w - - 0 14"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Bg5 *
+
+
+[Event ""]
+[Site "https://lichess.org/k6RhDbiI#25"]
+[FEN "r1bq1rk1/1p2bppp/p3pn2/4N3/2B5/2N5/PP2QPPP/R2R2K1 b - - 0 13"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Qc7 *
+
+
+[Event ""]
+[Site "https://lichess.org/kMphqpcO#50"]
+[FEN "rb3rk1/3qnpp1/p1n1p2p/1p6/5P2/P2PpBP1/1PP1Q1NP/2R1BRK1 w - - 2 26"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. c3 *
+
+
+[Event ""]
+[Site "https://lichess.org/FgGCqcYO#22"]
+[FEN "r1bqnr2/ppp2pkp/2np1b1N/4p1p1/4P3/2PP2P1/PP1N1PBP/R1BQ1RK1 w - - 4 12"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Qh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/spNbBwzW#32"]
+[FEN "r1q2rk1/pp1bppbp/2p1n1p1/8/2PP1B2/2N3PP/PP2QPBK/3R1R2 w - - 4 17"]
+[Themes "trading,coordination"]
+[Difficulty "1"]
+
+1. Be3 *
+
+
+[Event ""]
+[Site "https://lichess.org/bVtfEJdv#46"]
+[FEN "3r2k1/Bp2ppbp/6p1/4P3/2P2P2/2n5/P3B1PP/R5K1 w - - 0 24"]
+[Themes "trading,coordination,restriction"]
+[Difficulty "1"]
+
+1. Bf3 *
+
+
+[Event ""]
+[Site "https://lichess.org/bVtfEJdv#48"]
+[FEN "r5k1/Bp2ppbp/6p1/4P3/2P2P2/2n5/P5PP/R4BK1 w - - 2 25"]
+[Themes "endgame"]
+[Difficulty "3"]
+
+1. Bd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/s2ziB3CR#22"]
+[FEN "r1bq1rk1/ppp1pp1p/2n3pb/4Pn2/2PP4/2N2N1P/PP3BP1/R2QKB1R w KQ - 7 12"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/bySSILuW#28"]
+[FEN "r1b2rk1/2pq1p2/ppN4p/6p1/3Pn3/2P5/PP3PPP/RN1Q1RK1 w - - 1 15"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Ne5 *
+
+
+[Event ""]
+[Site "https://lichess.org/9hEDy4Il#26"]
+[FEN "1r3rk1/p1p2ppp/3p1q2/2bBp3/3nP3/3P3P/PPP2PP1/R1BQ1RK1 w - - 3 14"]
+[Themes "initiative,coordination"]
+[Difficulty "1"]
+
+1. c3 *
+
+
+[Event ""]
+[Site "https://lichess.org/x3pBYgF5#54"]
+[FEN "8/r5kp/p1R3p1/1p6/3PR3/2P3P1/PP3r2/2K5 w - - 0 28"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/NCWKkUEr#54"]
+[FEN "3r1rk1/5pp1/p1p1p2p/P1P5/1PP3PP/R2pPP2/1b6/1N1K3R w - - 1 28"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Rb3 *
+
+
+[Event ""]
+[Site "https://lichess.org/l0gAHBiV#32"]
+[FEN "r5k1/pb3ppp/5q2/1B2r3/4p3/8/PPP1QPPP/R3R1K1 w - - 2 17"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "3"]
+
+1. Bc4 *
+
+
+[Event ""]
+[Site "https://lichess.org/l0gAHBiV#36"]
+[FEN "r5k1/1b3ppp/p4q2/6r1/P1B1p3/8/1PP1QPPP/R3R1K1 w - - 2 19"]
+[Themes "prophylaxis"]
+[Difficulty "2"]
+
+1. Qe3 *
+
+
+[Event ""]
+[Site "https://lichess.org/BQ7r9gd6#20"]
+[FEN "r2q1rk1/1b2ppbp/ppn2np1/2pp4/4PP2/2PP1N2/PPN1B1PP/R1B1QRK1 w - d6 0 11"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/BVFR0ILf#34"]
+[FEN "2k1r1nr/bpp5/p2pp1np/4p1p1/PP2P1B1/2PP3P/3N1PP1/R1B2RK1 w - - 2 18"]
+[Themes "space,coordination"]
+[Difficulty "2"]
+
+1. Bh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/RORnmeHX#23"]
+[FEN "r1bqk2r/ppp2pp1/3p4/4p3/N1PnP1n1/3P1PP1/PP4B1/R1BQ1RK1 b kq - 0 12"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Nh2 *
+
+
+[Event ""]
+[Site "https://lichess.org/gSRxda7I#14"]
+[FEN "r1bq1rk1/pppnbppp/4pn2/8/2BP4/2N1PN2/PP3PPP/R1BQ1RK1 w - - 5 8"]
+[Themes "development,space"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/ncatupWW#47"]
+[FEN "4r1k1/1p2r1bp/pnpp2p1/5pP1/1PPP1P2/6N1/2R2BKP/2R5 b - - 9 24"]
+[Themes "space,fixingstructure"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/njhnBqxC#42"]
+[FEN "2k2r1r/pp3pb1/2ppq3/3N4/3PP3/2Q2RPp/PPP2R1P/6K1 w - - 0 22"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Ne3 *
+
+
+[Event ""]
+[Site "https://lichess.org/p3d53xuk#31"]
+[FEN "2k2bnr/pp2pppp/8/2pr4/4pB2/2N5/PPP2PPP/R4RK1 b - - 1 16"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. Rf5 *
+
+
+[Event ""]
+[Site "https://lichess.org/0rO3SycT#35"]
+[FEN "r2q1rk1/1p1nb2p/2p1bppP/p2np3/P1BN4/1P4R1/3N1PP1/2BQR1K1 b - - 0 18"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Bf7 *
+
+
+[Event ""]
+[Site "https://lichess.org/lJnard54#25"]
+[FEN "r2qkb1r/5ppp/2n1p1n1/1B1pP3/3P4/5Q2/PP3PPP/R1B2RK1 b kq - 0 13"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Qb6 *
+
+
+[Event ""]
+[Site "https://lichess.org/kEpbEshz#18"]
+[FEN "r1b1k1nr/ppp2ppp/2n1p3/q7/1b2N1P1/3P1N1P/PPPB1P2/R2QKB1R w KQkq - 5 10"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. c3 *
+
+
+[Event ""]
+[Site "https://lichess.org/L9WSzSmY#51"]
+[FEN "3rr1k1/p1p2ppp/5n2/3P1q2/2P1p3/BPR5/P3QPPP/5NK1 b - - 2 26"]
+[Themes "initiative,development,coordination"]
+[Difficulty "2"]
+
+1. Nh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/ev5wQFdQ#38"]
+[FEN "2krn3/1bprqpb1/1p4p1/p7/4P1P1/P1NPBP2/1P2NQ2/2KR3R w - - 1 20"]
+[Themes "space,restriction"]
+[Difficulty "1"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/VkzGdOVc#28"]
+[FEN "2kr3r/1ppbqp2/p1nbpn1p/6p1/1P1P4/P2BBN2/2PQNPPP/3RR1K1 w - g6 0 15"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/XsnkpBSs#38"]
+[FEN "r1br2k1/1p2bppp/p1p5/2p1PP2/8/1PN2N1P/1PP3P1/R4RK1 w - - 1 20"]
+[Themes "space,restriction"]
+[Difficulty "1"]
+
+1. g4 *
+
+
+[Event ""]
+[Site "https://lichess.org/DTlahmJ1#13"]
+[FEN "r1bqkb1r/pp3ppp/2n5/2ppp2n/8/3PPN1P/PPP2PPQ/RNB1KB1R b KQkq - 7 7"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Bd6 *
+
+
+[Event ""]
+[Site "https://lichess.org/g8G3kOTY#34"]
+[FEN "4kb1r/ppp2pp1/4p3/6r1/2P5/2NB2p1/PP2K1PP/R4R2 w k - 0 18"]
+[Themes "trading,fixingstructure"]
+[Difficulty "2"]
+
+1. h3 *
+
+
+[Event ""]
+[Site "https://lichess.org/nw5mFGEZ#16"]
+[FEN "rnbqk2r/ppp2ppp/4p3/3n4/3P4/2BB1N2/PPP2PPP/R2QK2R w KQkq - 1 9"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Bd2 *
+
+
+[Event ""]
+[Site "https://lichess.org/1fcxaUcI#34"]
+[FEN "r1bqnrk1/pp1n1pbp/2ppp1p1/8/P1PPP3/1PN2NPP/1B3PB1/2RQR1K1 w - - 3 18"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/zarMMtzr#23"]
+[FEN "2kr1b1r/ppp2ppp/2n2n2/1Nq1p1Nb/1P6/P2B1P2/2P3PP/R1BQ1R1K b - b3 0 12"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Qe7 *
+
+
+[Event ""]
+[Site "https://lichess.org/YpW4chKV#24"]
+[FEN "r1bq1rk1/1p2bppp/pnp1p3/4P3/P1BP1B2/2P2N2/5PPP/1R1Q1RK1 w - - 2 13"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Bd3 *
+
+
+[Event ""]
+[Site "https://lichess.org/B4C52NRe#44"]
+[FEN "2kr2r1/ppq2b2/2p1p2Q/2npN3/4n2P/1PP1P2B/PBP5/2KR3R w - - 3 23"]
+[Themes "development,space,coordination"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/j4vJ6nLn#34"]
+[FEN "r1b2rk1/1p3ppp/2p2q2/p2B4/1b1P4/1P1Q2P1/PBP2P1P/R4RK1 w - - 0 18"]
+[Themes "initiative,restriction"]
+[Difficulty "2"]
+
+1. Be4 *
+
+
+[Event ""]
+[Site "https://lichess.org/tIXTnPDs#22"]
+[FEN "rn2kb1r/ppp2ppp/5n2/3P4/1qP5/3PBQP1/PP2B3/RN2K2R w KQkq - 3 12"]
+[Themes "coordination,kingsafety"]
+[Difficulty "1"]
+
+1. Nd2 *
+
+
+[Event ""]
+[Site "https://lichess.org/0XIM2Wqd#15"]
+[FEN "rnbqr1k1/ppp2ppp/3b1n2/3p4/3P4/2NBBP2/PPPQ2PP/R3K1NR b KQ - 2 8"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. c5 *
+
+
+[Event ""]
+[Site "https://lichess.org/EQkIpPsa#39"]
+[FEN "2r4r/pp1k1ppp/2n1p3/q2p2PP/3P1P2/2PQ4/P1PB4/R3K2R b KQ - 2 20"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Ne7 *
+
+
+[Event ""]
+[Site "https://lichess.org/1rvO2KH5#20"]
+[FEN "r1bq1rk1/ppp2ppp/3p4/4n3/2B1P3/2B2Q2/PPP2PPP/R3K2R w KQ - 2 11"]
+[Themes "initiative,trading,coordination"]
+[Difficulty "2"]
+
+1. Qg3 *
+
+
+[Event ""]
+[Site "https://lichess.org/gbcvJRea#66"]
+[FEN "1r2r1k1/5ppp/4p2n/2qpP3/2b5/P1B1RPQP/1PN3P1/4R2K w - - 15 34"]
+[Themes "prophylaxis,coordination,restriction"]
+[Difficulty "1"]
+
+1. Nd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/Zc0E8zpg#21"]
+[FEN "r3kbnr/pp3ppp/2n1p3/3pP3/3B4/2P2N2/P1Q2PPP/qN3RK1 b kq - 0 11"]
+[Themes "prophylaxis"]
+[Difficulty "2"]
+
+1. Rc8 *
+
+
+[Event ""]
+[Site "https://lichess.org/itVL2mvf#24"]
+[FEN "r4rk1/pbqnbppp/1p2p3/2p1P3/6n1/2P2N2/PPBNQPPP/R1B2RK1 w - - 3 13"]
+[Themes "development,prophylaxis"]
+[Difficulty "1"]
+
+1. Re1 *
+
+
+[Event ""]
+[Site "https://lichess.org/vKvLEKaw#20"]
+[FEN "r1bqkb1r/5ppp/p2p2n1/1ppPn3/4P3/P1N3P1/1P2QPBP/R1B1K1NR w KQkq b6 0 11"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/vKvLEKaw#22"]
+[FEN "r2qkb1r/5ppp/p2p2n1/1ppPn3/4PPb1/P1N3P1/1P2Q1BP/R1B1K1NR w KQkq - 1 12"]
+[Themes "initiative,coordination,restriction"]
+[Difficulty "3"]
+
+1. Qc2 *
+
+
+[Event ""]
+[Site "https://lichess.org/YDmsqLkI#16"]
+[FEN "r1bq1rk1/ppp2ppp/2n2n2/3p4/3PP3/2PB1N2/P4PPP/R1BQK2R w KQ d6 0 9"]
+[Themes "space,fixingstructure"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Ztdc7g3E#16"]
+[FEN "r1bqk2r/p2pbppp/2p1pn2/8/4P3/2NB4/PPP2PPP/R1BQ1RK1 w kq - 4 9"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/EHhsQfip#52"]
+[FEN "r5k1/1p3pp1/p3p2p/4N3/1PP1n2P/R1P5/4KPP1/8 w - - 0 27"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. c5 *
+
+
+[Event ""]
+[Site "https://lichess.org/98JH7Ni1#58"]
+[FEN "8/2R1n1kp/p4pp1/8/4PP2/6P1/P5BP/1r4K1 w - - 1 30"]
+[Themes "endgame,coordination"]
+[Difficulty "2"]
+
+1. Bf1 *
+
+
+[Event ""]
+[Site "https://lichess.org/i2HGzCKu#50"]
+[FEN "2rr1b1k/p4qp1/1p3p2/2pn4/8/PP2P3/1B1N1PPP/1QR1R1K1 w - - 0 26"]
+[Themes "initiative,development"]
+[Difficulty "2"]
+
+1. Rc4 *
+
+
+[Event ""]
+[Site "https://lichess.org/04uMyY9B#20"]
+[FEN "r1bq1rk1/ppp1bpp1/3p3p/8/3QP1nP/2N5/PPPB1PP1/2KR1B1R w - - 2 11"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. f3 *
+
+
+[Event ""]
+[Site "https://lichess.org/NRmZd9Kw#45"]
+[FEN "rn3rk1/1p3ppp/4p3/1pPpB3/1P3P2/P7/6PP/R4RK1 b - - 2 23"]
+[Themes "development,endgame"]
+[Difficulty "1"]
+
+1. Nc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/TWtxTw5u#24"]
+[FEN "r2q1rk1/ppp2pp1/2np3p/2b5/2B1PBb1/2NP4/PPP1N3/R2Q1R1K w - - 0 13"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. Qe1 *
+
+
+[Event ""]
+[Site "https://lichess.org/0ADYv3wd#33"]
+[FEN "r1b2rk1/p3ppb1/1p1p1npp/3P4/P1P2P2/2NQ1N1P/1q3BP1/R4RK1 b - a3 0 17"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Bf5 *
+
+
+[Event ""]
+[Site "https://lichess.org/yvuyWG3N#12"]
+[FEN "rnbqkbnr/pp2p3/2p2p2/1B1p3p/3P2pP/4P1B1/PPP2PP1/RN1QK1NR w KQkq - 0 7"]
+[Themes "coordination,exploitingweakness"]
+[Difficulty "1"]
+
+1. Bd3 *
+
+
+[Event ""]
+[Site "https://lichess.org/xQXuviKP#52"]
+[FEN "1r1q1rk1/2p2p1p/2Bp2p1/3Pb2b/1P2Pp2/P1NQ3P/5PP1/1R3RK1 w - - 1 27"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. f3 *
+
+
+[Event ""]
+[Site "https://lichess.org/lV5komz7#26"]
+[FEN "rnb2rk1/pp1pppbp/2p2npq/8/3P4/1PB2NPP/P1P1PPB1/RN1Q1RK1 w - - 1 14"]
+[Themes "initiative,restriction"]
+[Difficulty "1"]
+
+1. Bd2 *
+
+
+[Event ""]
+[Site "https://lichess.org/zAf0FWlE#18"]
+[FEN "r1b1k1nr/pp3ppp/1q6/1NbpP3/8/2P5/PP3PPP/R2QKBNR w KQkq - 1 10"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. Qd2 *
+
+
+[Event ""]
+[Site "https://lichess.org/YdSYPt1G#18"]
+[FEN "rn2kbnr/1bpq4/pp1ppp2/6pp/4P3/2NP1N2/PPPBBPPP/R2Q1RK1 w kq h6 0 10"]
+[Themes "development,space"]
+[Difficulty "1"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/wcsnNGIT#32"]
+[FEN "r1r3k1/p2p1ppp/4p3/1bNpP3/3P4/8/PP3PPP/R3K2R w KQ - 5 17"]
+[Themes "initiative,space,restriction"]
+[Difficulty "2"]
+
+1. a4 *
+
+
+[Event ""]
+[Site "https://lichess.org/wcsnNGIT#34"]
+[FEN "r5k1/p1rp1ppp/4p3/1bNpP3/3P4/1P6/P4PPP/R3K2R w KQ - 1 18"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. a4 *
+
+
+[Event ""]
+[Site "https://lichess.org/gVEmVBWE#17"]
+[FEN "r1bq1r1k/ppp2p1p/2np1p2/2bNp3/2B1P1P1/3P1Q2/PPP2P1P/R3K1NR b KQ - 3 9"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Nd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/716GtIcT#29"]
+[FEN "r3k2r/pbqn2bp/1ppp2p1/4p3/8/2NPN1PP/PPP1B1P1/R2Q1RK1 b kq - 0 15"]
+[Themes "space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/a9BAP0Ff#12"]
+[FEN "rnb1k1nr/pp3ppp/1q2p3/3pP3/1b1P4/5N2/P1P2PPP/RNBQKB1R w KQkq - 1 7"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. c3 *
+
+
+[Event ""]
+[Site "https://lichess.org/X8qtllss#38"]
+[FEN "2rbk2r/1b1p1p1p/3p1p2/pp1Np3/4P3/PB3P2/1PPR1P1P/1K4R1 w k - 0 20"]
+[Themes "trading,coordination,exploitingweakness"]
+[Difficulty "2"]
+
+1. Ne3 *
+
+
+[Event ""]
+[Site "https://lichess.org/EMC8E3z7#30"]
+[FEN "3rr1k1/pp3pbp/n1p2np1/4p1BP/4P3/2P2PN1/PPB2P2/R3K2R w KQ - 3 16"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. h6 *
+
+
+[Event ""]
+[Site "https://lichess.org/2fwNGTNY#37"]
+[FEN "r4rk1/1bp1qpbp/4p1p1/2Pp4/p2P1P2/4PN2/2n1BQPP/N2R1RK1 b - - 1 19"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. Na3 *
+
+
+[Event ""]
+[Site "https://lichess.org/rRvbBcky#24"]
+[FEN "rn2k2r/ppb1nppp/2pq4/3p4/1P1P4/2PBB3/P4PPP/RN1Q1RK1 w kq - 1 13"]
+[Themes "coordination,restriction"]
+[Difficulty "2"]
+
+1. g3 *
+
+
+[Event ""]
+[Site "https://lichess.org/LoetypbR#63"]
+[FEN "k1r5/1bp3R1/1p5p/p7/6P1/1P3n2/P4K1P/2R5 b - - 2 32"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Kb8 *
+
+
+[Event ""]
+[Site "https://lichess.org/afxGVGu8#27"]
+[FEN "r2qk1nr/5ppp/p1npp3/8/1p2N3/4P3/PPP1B1PP/R2QK2R b KQkq - 1 14"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/DHedPerg#35"]
+[FEN "r2q1rk1/2p2ppp/p2b4/3P4/1p1Bb3/8/PP1RQPPP/3NR1K1 b - - 1 18"]
+[Themes "initiative,coordination"]
+[Difficulty "3"]
+
+1. Qg5 *
+
+
+[Event ""]
+[Site "https://lichess.org/ZL6vi1QU#29"]
+[FEN "rn1qr1k1/5ppp/p7/1p1pp3/6b1/B1P1PN1P/P2P1PP1/1R1Q1RK1 b - - 0 15"]
+[Themes "coordination,restriction"]
+[Difficulty "1"]
+
+1. Bh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/rk7kM3SM#19"]
+[FEN "rnb1k2r/pp2bppp/2pq1n2/3p4/5B2/2N5/PPPQBPPP/2KR2NR b kq - 1 10"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Qd8 *
+
+
+[Event ""]
+[Site "https://lichess.org/oxU080KX#45"]
+[FEN "1r3rk1/7p/1p1p2p1/p1p2p2/4n3/1P2PPP1/P5KP/2R1NR2 b - - 0 23"]
+[Themes "endgame,coordination"]
+[Difficulty "1"]
+
+1. Nf6 *
+
+
+[Event ""]
+[Site "https://lichess.org/D0FnbDQ5#48"]
+[FEN "1r4k1/p6p/5n2/6p1/1r2p3/4P3/4NPPP/1R3RK1 w - - 0 25"]
+[Themes "initiative,endgame,coordination"]
+[Difficulty "2"]
+
+1. Ra1 *
+
+
+[Event ""]
+[Site "https://lichess.org/kZyZGclh#34"]
+[FEN "r1b1k2r/5pb1/p2p1q1p/N1nPp1p1/4P3/5N1P/2P1BPP1/R2QK2R w KQkq - 0 18"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. Nd2 *
+
+
+[Event ""]
+[Site "https://lichess.org/JMs7yadq#20"]
+[FEN "r4rk1/1pp2ppp/p1pq4/2b5/4P1n1/3P4/PPPN1PPP/R1B1QRK1 w - - 0 11"]
+[Themes "development,coordination,kingsafety"]
+[Difficulty "1"]
+
+1. Nf3 *
+
+
+[Event ""]
+[Site "https://lichess.org/6uOZf53o#17"]
+[FEN "rnbqk3/pp2ppb1/2p2np1/3p2P1/8/4PP2/PPPPQ3/RNB1K1NB b Qq - 0 9"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Nh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/kyIgyAYp#33"]
+[FEN "r4rk1/1b2qpp1/p2ppn1p/1p3P2/3P4/P1PB2N1/6PP/2RQ1RK1 b - - 0 17"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/j173cSyj#35"]
+[FEN "r4rk1/ppp3p1/2np3p/5q2/3P3P/2N3Q1/PPP2P2/2KR2R1 b - - 2 18"]
+[Themes "coordination,kingsafety"]
+[Difficulty "1"]
+
+1. Rf7 *
+
+
+[Event ""]
+[Site "https://lichess.org/BWv1HY9i#48"]
+[FEN "1r3q1r/p5kp/2b2p2/6p1/8/1QN5/PP3PPP/R3R1K1 w - - 4 25"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Qc4 *
+
+
+[Event ""]
+[Site "https://lichess.org/1AgYf0wm#15"]
+[FEN "rnb1kb1r/pp2pppp/3n4/q1pP4/8/2N2Q2/PP2BPPP/R1B1K1NR b KQkq - 3 8"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. g6 *
+
+
+[Event ""]
+[Site "https://lichess.org/h4deEikd#32"]
+[FEN "r4rk1/1pq2ppn/p1b4p/8/2BQ4/P1N4P/1PP2PP1/3RK2R w K - 0 17"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/DDoYuYJp#62"]
+[FEN "r5k1/5p1p/1p4pb/2pP4/p3rp1P/P4N2/1PK1N3/R6R w - - 0 32"]
+[Themes "endgame,coordination"]
+[Difficulty "1"]
+
+1. Nc3 *
+
+
+[Event ""]
+[Site "https://lichess.org/CroBKvs3#37"]
+[FEN "2r2rk1/pp1Rbpp1/2p1pq1p/8/2P1R3/5B2/PPQ2PPP/6K1 b - - 0 19"]
+[Themes "prophylaxis,restriction"]
+[Difficulty "1"]
+
+1. Rb8 *
+
+
+[Event ""]
+[Site "https://lichess.org/1KOxIF97#66"]
+[FEN "8/1R5p/P2k2p1/r4p2/2p5/2P5/5PPP/5K2 w - - 0 34"]
+[Themes "endgame"]
+[Difficulty "1"]
+
+1. a7 *
+
+
+[Event ""]
+[Site "https://lichess.org/EED0ncdO#22"]
+[FEN "rn1q1rk1/pp3ppp/2p1bn2/3p4/2PP4/P1NBB3/1P1Q1PPP/R3K2R w KQ - 2 12"]
+[Themes "space,fixingstructure"]
+[Difficulty "2"]
+
+1. c5 *
+
+
+[Event ""]
+[Site "https://lichess.org/D8PucU3w#18"]
+[FEN "rnb1k2r/1p1p1ppp/p3pn2/8/3NP3/2qBB3/P1P2PPP/R2Q1RK1 w kq - 0 10"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Kk38L0md#22"]
+[FEN "2kr1bnr/ppp3pp/2n5/8/4p3/2P2N1P/PP3PP1/R1BBK2R w KQ - 0 12"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Ng5 *
+
+
+[Event ""]
+[Site "https://lichess.org/a23eAjXs#30"]
+[FEN "r2qr1k1/p4pbp/1p1p1np1/2pP4/Pn2P3/2N4P/1P1N1PP1/R1BQR1K1 w - - 3 16"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Nc4 *
+
+
+[Event ""]
+[Site "https://lichess.org/7wENxo4T#45"]
+[FEN "r2r2k1/1p1q1ppp/p4b2/2Pp4/1P6/8/1BQ2PPP/R2R2K1 b - - 1 23"]
+[Themes "initiative,trading"]
+[Difficulty "2"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/V6NxtDRO#13"]
+[FEN "rnbq1rk1/ppppbppp/5n2/1P2p3/P3P3/2P2P2/3PB1PP/RNBQK1NR b KQ - 2 7"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/JalcZCwF#28"]
+[FEN "r3kb1r/1bq2pp1/p3pn2/2p4p/4P3/2NBB2P/PPP1Q1P1/R4RK1 w kq - 0 15"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Bf4 *
+
+
+[Event ""]
+[Site "https://lichess.org/e2ciBZ1k#30"]
+[FEN "1r1qk2b/p1p2p1p/2p1b3/3p4/8/3B3P/PPP1QPP1/2KR3R w - - 0 16"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. c3 *
+
+
+[Event ""]
+[Site "https://lichess.org/oXwJsfdJ#25"]
+[FEN "r2q1rk1/p4pp1/1pnbbn1p/3p2N1/2pP1P1P/2P1B3/PPBN2P1/R2Q1RK1 b - h3 0 13"]
+[Themes "development,kingsafety"]
+[Difficulty "3"]
+
+1. Bg4 *
+
+
+[Event ""]
+[Site "https://lichess.org/IGzAn9kS#20"]
+[FEN "2kr1bnr/ppp1qp1p/8/3Qpb2/P5p1/2N1P3/1PP1BPPP/R1B2RK1 w - - 0 11"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Qa5 *
+
+
+[Event ""]
+[Site "https://lichess.org/IGzAn9kS#22"]
+[FEN "2kr1bnr/ppp2p1p/8/1Qq1pb2/P5p1/2N1P3/1PP1BPPP/R1B2RK1 w - - 2 12"]
+[Themes "development,space,trading"]
+[Difficulty "2"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/MA7xRpBS#29"]
+[FEN "r4rk1/1p2qppp/p1p2n2/4p1P1/2PpP3/R2P1N1b/4BP2/1N1QR1K1 b - - 1 15"]
+[Themes "initiative,coordination"]
+[Difficulty "1"]
+
+1. Nh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/MxSTcQeR#29"]
+[FEN "rn4nr/pb4b1/1pp1k3/7p/6p1/P1NP4/1PPB1PPP/2K1R1NR b - - 1 15"]
+[Themes "coordination,kingsafety"]
+[Difficulty "2"]
+
+1. Kd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/jDhe4Xoj#25"]
+[FEN "r3k2r/1ppq1ppp/p1nbb3/3p4/3PpP2/PP2P2P/1BPN1PB1/R2QK2R b KQkq - 0 13"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Ne7 *
+
+
+[Event ""]
+[Site "https://lichess.org/EvQrGQ9o#16"]
+[FEN "rnb2rk1/ppqpnppp/4p3/8/1bB1P3/2N2N2/PP2QPPP/R1B2RK1 w - - 8 9"]
+[Themes "initiative,space,restriction"]
+[Difficulty "1"]
+
+1. Nb5 *
+
+
+[Event ""]
+[Site "https://lichess.org/XW3rVP52#30"]
+[FEN "rn3rk1/1pq2ppp/2p1p3/p4n2/P4Pb1/1BNP1N2/1PP2QPP/R4R1K w - - 4 16"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Ne5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Gkcq5Is8#53"]
+[FEN "1R1b3r/2p5/3nk3/6p1/p2N4/2P3P1/P1P2PKP/8 b - - 1 27"]
+[Themes "endgame"]
+[Difficulty "2"]
+
+1. Kd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/RFHtuDV8#15"]
+[FEN "r1bqkb1r/ppp2ppp/4p3/3pP3/3n1P2/2PB4/PP4PP/RNBQK2R b KQkq - 0 8"]
+[Themes "development,trading"]
+[Difficulty "2"]
+
+1. Nf5 *
+
+
+[Event ""]
+[Site "https://lichess.org/UnaJ7WCd#44"]
+[FEN "r7/ppp3pk/2n1B3/8/3P4/P7/2P4r/2KR1R2 w - - 1 23"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Rf7 *
+
+
+[Event ""]
+[Site "https://lichess.org/O9dFoDd6#15"]
+[FEN "rnb2rk1/ppp1ppbp/5np1/4P3/2P5/5N2/PP3PPP/R1BNKB1R b KQ - 0 8"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Ng4 *
+
+
+[Event ""]
+[Site "https://lichess.org/4s5lNDd5#77"]
+[FEN "2k5/p7/p1p3b1/Pn2p2p/4Nb1P/1P3P2/KP4P1/4R3 b - - 5 39"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Nd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/QwZPmbHp#18"]
+[FEN "rnb1kb1Q/ppp1q3/6p1/3p4/4n3/8/PPPP1PPP/RNB2RK1 w - d6 0 10"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Re1 *
+
+
+[Event ""]
+[Site "https://lichess.org/mnwm2OVO#30"]
+[FEN "2kr2nr/1pq2pb1/p2p2pp/4n3/4P1P1/2N4P/PPPBQ1B1/2KR3R w - - 0 16"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Nd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/E2tOMVd4#21"]
+[FEN "r2qk2r/1pp1ppbp/p1b5/8/8/2P2N2/PP1BQPPP/R3K2R b KQkq - 1 11"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Qd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Ipbe17q2#35"]
+[FEN "rn3rk1/pp3pp1/2p4p/8/4PRP1/2N5/PPP3P1/R5K1 b - - 0 18"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Nd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/2XqU5nvx#31"]
+[FEN "r5nr/pb2qk1p/3p1pp1/1B2n3/4P3/1QP3B1/PPP3PP/2KR3R b - - 2 16"]
+[Themes "trading,coordination,kingsafety"]
+[Difficulty "2"]
+
+1. Kg7 *
+
+
+[Event ""]
+[Site "https://lichess.org/UWzCEYVR#15"]
+[FEN "r1b1kb1r/1pp1ppp1/p1n1qn1p/8/5P2/2NP2P1/PPP1B2P/R1BQK1NR b KQkq - 0 8"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Nd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/DmWMofpU#34"]
+[FEN "2kr3r/pp1q3p/1b2p2p/2ppP2Q/3Pp3/4P1P1/PPP3BP/R4RK1 w - c6 0 18"]
+[Themes "prophylaxis,coordination,other"]
+[Difficulty "1"]
+
+1. c3 *
+
+
+[Event ""]
+[Site "https://lichess.org/zbibrFJV#45"]
+[FEN "3q1rk1/p2nbrp1/2p1p3/2ppP1Pp/4bP1P/2P3K1/PP1NQR1N/R1B5 b - - 1 23"]
+[Themes "initiative,trading"]
+[Difficulty "2"]
+
+1. Bg6 *
+
+
+[Event ""]
+[Site "https://lichess.org/w2vMFzpc#39"]
+[FEN "r3k2r/p4pp1/7p/2ppp1q1/8/2PP3P/PP3P1P/R2Q1R1K b kq - 2 20"]
+[Themes "coordination,kingsafety"]
+[Difficulty "2"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/5i2agBrG#30"]
+[FEN "r4rk1/pp1n1ppp/1qp1p3/3nP3/3P4/3Q1N2/PP3PPP/R1B2RK1 w - - 1 16"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Ng5 *
+
+
+[Event ""]
+[Site "https://lichess.org/QikSMF6Q#43"]
+[FEN "r4rk1/1b2b1pp/p3p2n/2p1R3/Pp1p1PP1/1P1P1NNP/1P1B4/5R1K b - - 0 22"]
+[Themes "initiative,coordination"]
+[Difficulty "3"]
+
+1. Nf7 *
+
+
+[Event ""]
+[Site "https://lichess.org/4zZ7wrj6#60"]
+[FEN "8/pp5r/2nk3P/4p3/3p4/1PpP1P2/5P2/4RK1R w - - 3 31"]
+[Themes "initiative,endgame"]
+[Difficulty "2"]
+
+1. Ke2 *
+
+
+[Event ""]
+[Site "https://lichess.org/MZTyRlTF#42"]
+[FEN "2k3r1/pp1r1p2/1np1pBp1/1q6/7P/1P3Q2/P1P2PP1/2KR3R w - - 1 22"]
+[Themes "initiative,restriction"]
+[Difficulty "3"]
+
+1. g4 *
+
+
+[Event ""]
+[Site "https://lichess.org/RRcPD958#34"]
+[FEN "2kr3r/ppq1b3/2b1p3/2PpPp1p/1P1Pn1p1/3B4/P2NQ1PP/R1B2RK1 w - h6 0 18"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. a4 *
+
+
+[Event ""]
+[Site "https://lichess.org/cixmhhnJ#36"]
+[FEN "r4rk1/2nbqppp/1p1p1n2/pP1Pp3/2P5/P2N1PP1/3N2BP/R2QR1K1 w - - 0 19"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/2pKxTwC5#28"]
+[FEN "2br1rk1/ppp2ppp/2np1qn1/8/4PPP1/1NN1Q2P/PPPR4/2K2B1R w - - 1 15"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. Nd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/YvTb8mvj#38"]
+[FEN "1k1r3r/ppp2ppp/4qn2/8/1P2P1b1/2RB1N2/1P3PPP/Q4RK1 w - - 3 20"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. Ng5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Mulucl4c#37"]
+[FEN "r2q1rk1/p4pp1/1p2pb1p/1Q6/4N3/7P/PP3PP1/3R1RK1 b - - 1 19"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Bd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/IU5tfHp5#22"]
+[FEN "1r3rk1/p1qnppbp/b1pp1np1/1p6/1PPP4/P4NP1/1BQNPPBP/3RK2R w K - 4 12"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. c5 *
+
+
+[Event ""]
+[Site "https://lichess.org/lVAnlkoA#42"]
+[FEN "r4rk1/pp3ppp/3P2q1/2Pp4/8/P6b/3B1PPP/R1Q1R1K1 w - - 5 22"]
+[Themes "kingsafety"]
+[Difficulty "2"]
+
+1. Bg5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Fx97VCa8#65"]
+[FEN "5r2/p4qbk/1p2brpp/2p5/4P1P1/P4P1P/1PQN1RB1/5R1K b - - 20 33"]
+[Themes "prophylaxis,restriction"]
+[Difficulty "2"]
+
+1. Rf4 *
+
+
+[Event ""]
+[Site "https://lichess.org/dPFeHKqT#26"]
+[FEN "rn1r1k2/pb3ppB/1pp1pq2/8/2PP4/5N2/PPQ2PPP/R4RK1 w - - 1 14"]
+[Themes "coordination,restriction"]
+[Difficulty "1"]
+
+1. Be4 *
+
+
+[Event ""]
+[Site "https://lichess.org/YIN2c2qh#48"]
+[FEN "3r2k1/q3pp1p/6p1/3Pn3/4P3/1rN2P2/1P2Q1PP/2R2R1K w - - 9 25"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/lnXOvUHd#13"]
+[FEN "r1bqkbnr/pp3ppp/2np4/4p1B1/4P3/2N2N2/PP3PPP/R2QKB1R b KQkq - 1 7"]
+[Themes "development,trading"]
+[Difficulty "2"]
+
+1. Be7 *
+
+
+[Event ""]
+[Site "https://lichess.org/uGAS66Ep#13"]
+[FEN "rn2kb1r/pp2pppp/2p2n2/3p1b2/3P1q2/1QP2N2/PP1NP1PP/R1B1KB1R b KQkq - 3 7"]
+[Themes "prophylaxis,coordination,kingsafety"]
+[Difficulty "2"]
+
+1. Qc7 *
+
+
+[Event ""]
+[Site "https://lichess.org/iTG1KOBR#37"]
+[FEN "2k2b1r/ppp1pp2/7p/6p1/1nP5/P5B1/1P2NPPP/2KR4 b - - 0 19"]
+[Themes "endgame,coordination"]
+[Difficulty "1"]
+
+1. Nc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/fqeVtSDL#27"]
+[FEN "2rq1rk1/1p3pp1/p1nbp2p/3p1b2/3PnNP1/2P1B2P/PP2NPB1/R2Q1RK1 b - - 0 14"]
+[Themes "trading"]
+[Difficulty "1"]
+
+1. Bh7 *
+
+
+[Event ""]
+[Site "https://lichess.org/xVstVC2T#54"]
+[FEN "1k1r1n2/p1r5/1p2p3/1B1pPp1p/3P2bP/3N4/PPP5/2K2R1R w - - 4 28"]
+[Themes "endgame,coordination,exploitingweakness"]
+[Difficulty "2"]
+
+1. Nf4 *
+
+
+[Event ""]
+[Site "https://lichess.org/RUAsrtTb#44"]
+[FEN "r4rk1/2p2pp1/6np/pP1q4/P3N3/2P2NPP/2Q2K2/R1B5 w - - 1 23"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/eLHWBchL#60"]
+[FEN "6rk/3b1prp/3p1Q2/q2P4/8/p5PP/B1PK1P2/1R5R w - - 6 31"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. c3 *
+
+
+[Event ""]
+[Site "https://lichess.org/pUCimOd1#58"]
+[FEN "4r1k1/5p2/1p1b1r2/6qp/1P1Q4/3P2P1/4PPB1/1R2RK2 w - - 1 30"]
+[Themes "coordination,kingsafety"]
+[Difficulty "2"]
+
+1. Bf3 *
+
+
+[Event ""]
+[Site "https://lichess.org/mWQdIkbU#40"]
+[FEN "3r1rk1/p4ppp/3b1n2/qp1P4/N2Q4/P5P1/1P3PBP/3RR1K1 w - b6 0 21"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Nc5 *
+
+
+[Event ""]
+[Site "https://lichess.org/LI2ACSpd#23"]
+[FEN "2kr1b1r/1ppqpp1p/p1n2p2/8/2B5/1P3Q1P/P1PP1PP1/R1B2RK1 b - - 1 12"]
+[Themes "initiative,development"]
+[Difficulty "2"]
+
+1. Nd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/JwXvnFDr#22"]
+[FEN "r2qr1k1/ppp2pbp/2np1np1/8/2BPP3/4BQ1P/PP3PP1/RN2R1K1 w - - 3 12"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Nc3 *
+
+
+[Event ""]
+[Site "https://lichess.org/lywhZDCC#40"]
+[FEN "r1b1Qbk1/1pp5/p1n1pq2/3p2N1/2PP4/P1N1P1P1/1P3PP1/R3K3 w Q - 4 21"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/GYgRNPQn#20"]
+[FEN "r1b1k2r/ppp1bppp/2p5/4P2n/5P2/2N1P3/PPP3PP/RNB2RK1 w kq - 1 11"]
+[Themes "endgame,space,restriction"]
+[Difficulty "2"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/bV4Z6rm8#32"]
+[FEN "r3k1nr/p2p3p/1p2q1p1/8/2P5/8/PP1NbPP1/R1Q1R1K1 w kq - 2 17"]
+[Themes "initiative,coordination"]
+[Difficulty "1"]
+
+1. Nf3 *
+
+
+[Event ""]
+[Site "https://lichess.org/DS7dw2tH#65"]
+[FEN "8/1r4pk/2r1p2p/3pn3/pP1B4/P5R1/6PP/R5K1 b - - 1 33"]
+[Themes "development,endgame"]
+[Difficulty "1"]
+
+1. Nc4 *
+
+
+[Event ""]
+[Site "https://lichess.org/0IZTbv41#12"]
+[FEN "rn1qk2r/pppb1ppp/4pn2/3pb3/4P3/3P1P2/PPPN1BPP/R2QKBNR w KQkq - 3 7"]
+[Themes "initiative,space,restriction"]
+[Difficulty "1"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/5CedAx1l#57"]
+[FEN "r4rk1/1p3pp1/2pP4/5p2/p1P1pPq1/P1Q1BnP1/1P4K1/R6R b - - 0 29"]
+[Themes "kingsafety"]
+[Difficulty "3"]
+
+1. f6 *
+
+
+[Event ""]
+[Site "https://lichess.org/eSJ6QdpO#23"]
+[FEN "r1bq1rk1/p4ppp/2p5/2bpPp2/5P2/2P5/PP1NQ1PP/R1B1K2R b KQ - 3 12"]
+[Themes "initiative,development"]
+[Difficulty "2"]
+
+1. a5 *
+
+
+[Event ""]
+[Site "https://lichess.org/lbaMPpeJ#52"]
+[FEN "r2r1bk1/Bp1q1pp1/p2pnn1p/P3p3/2P5/1QNP2P1/4PPNP/1R3RK1 w - - 5 27"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Bb6 *
+
+
+[Event ""]
+[Site "https://lichess.org/Z9MbNt5n#59"]
+[FEN "4qrk1/1rn1b3/4p1pp/ppPp1p2/3P1P1P/2B3PN/P3Q2K/4RR2 b - - 1 30"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/5ODXErIa#54"]
+[FEN "1r3b1k/p1q2pp1/1r1p3N/2p1p2n/2P1P3/P5RP/1PQ2PP1/2B1R1K1 w - - 1 28"]
+[Themes "initiative,coordination"]
+[Difficulty "1"]
+
+1. Rg5 *
+
+
+[Event ""]
+[Site "https://lichess.org/34UbF1jH#14"]
+[FEN "r1bqk2r/ppp1nppp/2n5/b3p3/8/PP3N2/1BPNPPPP/R2QKB1R w KQkq - 0 8"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/0519reF0#25"]
+[FEN "r2q1rk1/ppp2pp1/3p1n1p/3Pp2b/2P1n2B/2P1PN1P/P3BPP1/2RQ1RK1 b - - 2 13"]
+[Themes "restriction"]
+[Difficulty "2"]
+
+1. g5 *
+
+
+[Event ""]
+[Site "https://lichess.org/969bLWEV#12"]
+[FEN "r1bqkb1r/3ppppp/p1p2n2/8/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 7"]
+[Themes "development,space,restriction"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/l6gf7rGt#45"]
+[FEN "r1r3k1/pp2p2p/4Nnpb/4N3/1pPP4/1P4B1/P5PP/5R1K b - - 0 23"]
+[Themes "initiative,endgame"]
+[Difficulty "3"]
+
+1. a5 *
+
+
+[Event ""]
+[Site "https://lichess.org/QrQ7PeKV#38"]
+[FEN "3q1rk1/1p1n1pp1/1b1p2bp/1Pp1p3/2B1P1PP/3P1N2/Q1PB1P2/5RK1 w - - 1 20"]
+[Themes "space,restriction"]
+[Difficulty "3"]
+
+1. h5 *
+
+
+[Event ""]
+[Site "https://lichess.org/jEsUT8eQ#16"]
+[FEN "r1bq1rk1/pppp1ppp/1bn5/1B2P3/3Pn3/5N2/PP3PPP/RNBQ1RK1 w - - 1 9"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/4nKCRoms#26"]
+[FEN "r1bq1rk1/2pn2pp/p4p2/2p1p3/2PPP3/4BN2/P1Q2PPP/R4RK1 w - - 0 14"]
+[Themes "initiative,space,restriction"]
+[Difficulty "2"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/HwZL4oe2#18"]
+[FEN "rn2kb1r/ppp2ppp/8/8/4q1b1/5N2/PPP1BPPP/R1BQK2R w KQkq - 0 10"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/ptwNkn4Y#52"]
+[FEN "r4r1k/7p/p2p1n1P/2pP1q2/P1p5/2N3P1/1P1Q4/2K1R2R w - - 0 27"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Rhf1 *
+
+
+[Event ""]
+[Site "https://lichess.org/jceRkF1S#22"]
+[FEN "r2qkb1r/pp1n1ppp/2p1pnb1/8/2B5/2NP2Q1/PPPBNPPP/R3R1K1 w kq - 7 12"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Nf4 *
+
+
+[Event ""]
+[Site "https://lichess.org/8sXxrrlu#15"]
+[FEN "r2qkb1r/ppp2ppp/2np1n2/8/2B2Pb1/4PN2/PPP3PP/RNBQK2R b KQkq - 8 8"]
+[Themes "space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/2nEG7Bzd#77"]
+[FEN "8/1R1k4/1p2r2p/6p1/5p2/P7/6PP/6K1 b - - 1 39"]
+[Themes "endgame"]
+[Difficulty "1"]
+
+1. Kc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/EswbyiTX#22"]
+[FEN "r1b1k2r/1p1n3p/1p2pp2/1B6/1b2P3/2N5/PP3PPP/R3K1NR w KQkq - 0 12"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Ne2 *
+
+
+[Event ""]
+[Site "https://lichess.org/1c914fS3#60"]
+[FEN "1rr5/5R2/4p2p/2k1P3/2N5/2P5/1P3PP1/5K2 w - - 1 31"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Rf4 *
+
+
+[Event ""]
+[Site "https://lichess.org/5u0aFK7I#15"]
+[FEN "r2qk1nr/p1p2ppp/2pp4/2b1p3/2b5/2N1P1P1/PP1PNP1P/R1BQ1RK1 b kq - 1 8"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. Bd3 *
+
+
+[Event ""]
+[Site "https://lichess.org/5u0aFK7I#23"]
+[FEN "r2qk2r/p1p2ppp/2pp1n2/4p3/3P4/P1P1P1P1/4QP1P/R1B2RK1 b kq - 0 12"]
+[Themes "space,restriction"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/aaGYcd2k#16"]
+[FEN "r1bqkb1r/p3nppp/2pp1n2/1B6/8/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 9"]
+[Themes "initiative,development,coordination"]
+[Difficulty "2"]
+
+1. Ba4 *
+
+
+[Event ""]
+[Site "https://lichess.org/xes8nXVz#11"]
+[FEN "rnbqk2r/pp1pbppp/5n2/2p1Q1B1/8/2N5/PPP1PPPP/R3KBNR b KQkq - 4 6"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Nc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/6lnZseJb#12"]
+[FEN "r1b1kbnr/1p2pppp/p1n5/3q4/3P4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Nc3 *
+
+
+[Event ""]
+[Site "https://lichess.org/6lnZseJb#14"]
+[FEN "r1bqkbnr/1p2pppp/p1n5/8/3P4/2N2N2/PP3PPP/R1BQKB1R w KQkq - 4 8"]
+[Themes "space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/oZOWCeBU#40"]
+[FEN "2kr2r1/1pp1q3/1p3p1p/n3p2b/P3P1pP/2P3B1/1PB1QPP1/R3K2R w KQ - 0 21"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/NGzsYIn0#18"]
+[FEN "r1bqkb2/ppp1p1r1/2np1np1/8/2PP1N2/5Q2/PP3PPP/RNB1KB1R w KQq - 1 10"]
+[Themes "space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/7PrsDFR5#18"]
+[FEN "rn1qkb1r/ppp3pp/4pn2/8/2B1P3/2N2P2/PP1P3P/R1BQK2R w KQkq - 1 10"]
+[Themes "space"]
+[Difficulty "2"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/IurVL24l#25"]
+[FEN "r1bq1rk1/ppp2ppp/4n3/1B1p4/2P5/P1Q5/1BP2PPP/R4RK1 b - - 2 13"]
+[Themes "restriction"]
+[Difficulty "1"]
+
+1. d4 *
+
+
+[Event ""]
+[Site "https://lichess.org/rwinp4Or#24"]
+[FEN "r3k1r1/1pqnbppp/2pp1n2/p3pP2/2B1P3/2NP1Q2/PPPB1P1P/R3K1R1 w Qq - 2 13"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. a4 *
+
+
+[Event ""]
+[Site "https://lichess.org/04er1jmX#15"]
+[FEN "r2qkbnr/2p2ppp/2npb3/1B2p3/4P3/5N2/PPPP1PPP/R1BQK2R b KQkq - 0 8"]
+[Themes "prophylaxis,kingsafety"]
+[Difficulty "1"]
+
+1. Bd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/TUWq8PJ1#12"]
+[FEN "rnbq4/pppp1kpp/5n2/2b5/4P3/8/PPPP1PPP/RNBQK2R w KQ - 0 7"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/NT7jzb5k#29"]
+[FEN "r2qnrk1/pb3p1p/2n1p1p1/1ppp3N/6Pb/1PPPPN2/PB3PB1/R2QK2R b KQ - 1 15"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. Be7 *
+
+
+[Event ""]
+[Site "https://lichess.org/OejdKaUK#27"]
+[FEN "r4rk1/ppp3p1/2n4p/2p1pp2/4P3/3PBP2/PPP2P1P/R3K2R b KQ - 1 14"]
+[Themes "trading,restriction"]
+[Difficulty "2"]
+
+1. b6 *
+
+
+[Event ""]
+[Site "https://lichess.org/JCKTty5Q#34"]
+[FEN "r1b3k1/pp1n1pbp/2pNr1p1/2n1p3/8/1PP1PN1P/P3BPPB/2R2RK1 w - - 2 18"]
+[Themes "development,trading,coordination"]
+[Difficulty "2"]
+
+1. Rfd1 *
+
+
+[Event ""]
+[Site "https://lichess.org/Y1E9P6WR#16"]
+[FEN "r1bq1rk1/pp1pnpbp/2n1p1p1/8/4PB2/2NB1N2/PPP2PPP/R2QK2R w KQ - 4 9"]
+[Themes "space,restriction"]
+[Difficulty "1"]
+
+1. Bd6 *
+
+
+[Event ""]
+[Site "https://lichess.org/l8TyKYDR#32"]
+[FEN "r1b2rk1/4bp1p/p2pp1pP/qp2n3/3BP3/1BN5/PP2QPP1/1K1R3R w - - 1 17"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/0kZnblEl#39"]
+[FEN "r3k2r/6pp/3qpp2/p2p4/Pp1Pn3/5P1P/1PP3P1/RN2QRK1 b kq - 2 20"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Ng3 *
+
+
+[Event ""]
+[Site "https://lichess.org/uO90gHgc#36"]
+[FEN "r4rk1/pppq1p2/6pb/8/3P2RP/3Qp3/PPP1P3/2KR1B2 w - - 3 19"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Bh3 *
+
+
+[Event ""]
+[Site "https://lichess.org/bcyLvQcY#32"]
+[FEN "3r1rk1/1b1pnppp/pqn1p3/1p2B3/4P3/P1R2N2/1P1QBPPP/3R2K1 w - - 5 17"]
+[Themes "space,restriction"]
+[Difficulty "1"]
+
+1. Bd6 *
+
+
+[Event ""]
+[Site "https://lichess.org/UCFvtsyv#46"]
+[FEN "2rr2k1/p4p1p/2P1pPp1/8/8/3P1N1P/1P3PP1/2R3K1 w - - 1 24"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Ne5 *
+
+
+[Event ""]
+[Site "https://lichess.org/8713jNDT#34"]
+[FEN "2kr1r2/pp6/3bp1pp/2p1n3/8/P1B1P3/1P1N1PPP/R2R2K1 w - - 2 18"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Ne4 *
+
+
+[Event ""]
+[Site "https://lichess.org/bfvYp8B2#21"]
+[FEN "r2q1rk1/ppp2pp1/2nbpnbp/8/2B1P3/N2P1N2/PP2QPPP/R1B2RK1 b - - 2 11"]
+[Themes "development,trading,restriction"]
+[Difficulty "3"]
+
+1. Bh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/wQCeORN4#46"]
+[FEN "1q4k1/6pp/r1p1p3/2Pn1p2/p1NPpP2/P3P2P/2Q3P1/5RK1 w - - 0 24"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Rb1 *
+
+
+[Event ""]
+[Site "https://lichess.org/w6dA8wYU#36"]
+[FEN "2rq1rk1/4npb1/bp1p3p/p2P2p1/4Pp2/P1N2N2/1PB2PPP/2RQR1K1 w - - 0 19"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/sKF1P3Da#14"]
+[FEN "r1b1kb1r/1pp1pppp/p1q5/3n4/3P4/5N2/PPP2PPP/RNBQ1RK1 w kq - 0 8"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Ne5 *
+
+
+[Event ""]
+[Site "https://lichess.org/bvJAit9W#48"]
+[FEN "1r4k1/3np2p/1n1p1pp1/1rpP4/q3PB1P/2P5/P1RNQPP1/R5K1 w - - 9 25"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Rac1 *
+
+
+[Event ""]
+[Site "https://lichess.org/lCtqkN5H#31"]
+[FEN "2kr2n1/pppqp3/4br2/3pQ3/3P4/2P4P/PP1N1P2/R3KB1R b KQ - 2 16"]
+[Themes "initiative,development,coordination"]
+[Difficulty "2"]
+
+1. Bf5 *
+
+
+[Event ""]
+[Site "https://lichess.org/KQcaxC4C#46"]
+[FEN "2kr4/7p/p1pp2p1/2p4n/3qN2Q/3P4/PPP3PP/5RK1 w - - 4 24"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. Kh1 *
+
+
+[Event ""]
+[Site "https://lichess.org/xhfkmtUw#41"]
+[FEN "r4r2/2q2pkp/p1pp1Rp1/2pb2N1/8/3PQ3/P1P3PP/5RK1 b - - 2 21"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Rae8 *
+
+
+[Event ""]
+[Site "https://lichess.org/3urDKJFz#54"]
+[FEN "r4rk1/2q2ppp/pp1Np3/n3P3/P1PP1P2/1R1Q1N1P/6P1/6K1 w - - 1 28"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. Ng5 *
+
+
+[Event ""]
+[Site "https://lichess.org/tdbrfyq3#57"]
+[FEN "1k3r1r/1p1q1pp1/p1p1p1p1/4P3/8/PPB2Q1P/1KP2PP1/3R4 b - - 6 29"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "1"]
+
+1. Qc7 *
+
+
+[Event ""]
+[Site "https://lichess.org/YFzfNjFa#24"]
+[FEN "r2qk2r/1bp1npb1/2n1p1p1/pp1p2B1/3PP1PP/8/PPPQN3/2KR1BNR w kq d6 0 13"]
+[Themes "space,fixingstructure"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/kRYEawEV#44"]
+[FEN "2r1r1k1/1p1qpp1p/6p1/3p2B1/Pp2nPP1/3N1R1P/2P1Q2K/R7 w - - 0 23"]
+[Themes "trading,coordination"]
+[Difficulty "1"]
+
+1. Bh4 *
+
+
+[Event ""]
+[Site "https://lichess.org/Ubi83AWt#21"]
+[FEN "2kr1b1r/pppqpp2/2n2np1/5b1p/3P4/2P1BN1P/PP1NB1P1/R2Q1RK1 b - - 1 11"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Nd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Sn7hdCeY#18"]
+[FEN "rnb2rk1/ppppnppp/1bq5/8/3P4/5N2/PP2BPPP/RNBQR1K1 w - - 6 10"]
+[Themes "initiative,development"]
+[Difficulty "2"]
+
+1. Bd3 *
+
+
+[Event ""]
+[Site "https://lichess.org/JmfzezmN#33"]
+[FEN "1rbqr1k1/p2n1pbp/1p3np1/2p5/2P5/NP3NP1/PB2P1BP/2RQR1K1 b - - 5 17"]
+[Themes "prophylaxis,restriction"]
+[Difficulty "3"]
+
+1. a6 *
+
+
+[Event ""]
+[Site "https://lichess.org/5lFT8jxw#70"]
+[FEN "8/2p4p/2r1k1p1/3N1p2/1P1Rp3/Pb4PP/1P3PK1/8 w - - 4 36"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Nc3 *
+
+
+[Event ""]
+[Site "https://lichess.org/4G7NxZIw#38"]
+[FEN "r1br2k1/1q2bpp1/pp2pn1p/8/3N1B2/2PB1Q2/PP3PPP/R4RK1 w - - 2 20"]
+[Themes "initiative,restriction"]
+[Difficulty "1"]
+
+1. Nc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/coQlP0Q8#63"]
+[FEN "6rk/4R1bp/6q1/2pQ4/3p4/4p2P/P5P1/4R2K b - - 5 32"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/VepP7UFv#25"]
+[FEN "r1bq1rk1/p3bppp/2p5/3pn3/5B2/2N5/PPB2PPP/R2Q1RK1 b - - 1 13"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Ng6 *
+
+
+[Event ""]
+[Site "https://lichess.org/z3F6OXJc#47"]
+[FEN "5rk1/p3bpp1/1p2pnp1/1B1p4/P2P1qP1/7P/2R2P2/3QR1K1 b - - 2 24"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. Bd6 *
+
+
+[Event ""]
+[Site "https://lichess.org/RccmNjX3#23"]
+[FEN "r2qk2r/pp2ppbp/3p1n2/1Bp2PB1/8/3P4/PPP3PP/RN1Q2K1 b kq - 2 12"]
+[Themes "development"]
+[Difficulty "2"]
+
+1. Kf8 *
+
+
+[Event ""]
+[Site "https://lichess.org/2YNxYgKc#19"]
+[FEN "r1b2rk1/ppp2ppp/2n1q3/2b1p1N1/2P5/3P4/PP3PPP/RNBQ1RK1 b - - 4 10"]
+[Themes "development,trading"]
+[Difficulty "1"]
+
+1. Qg6 *
+
+
+[Event ""]
+[Site "https://lichess.org/u7zyuHI5#36"]
+[FEN "r4rk1/p1qb1pbp/2pN1np1/8/1pPP1n2/1P3N1P/PB3PP1/2RQRBK1 w - - 1 19"]
+[Themes "space,coordination"]
+[Difficulty "1"]
+
+1. c5 *
+
+
+[Event ""]
+[Site "https://lichess.org/B6RD7r0T#56"]
+[FEN "2r3k1/p4pp1/4p3/2rp2Pp/5P1P/1P1R1P2/PKP4R/8 w - - 1 29"]
+[Themes "endgame"]
+[Difficulty "2"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/lgLNcpbn#35"]
+[FEN "r4rk1/5ppp/p2Rbn2/2B5/2p1P1n1/2N5/PPP2PPP/3R2K1 b - - 4 18"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. Rfc8 *
+
+
+[Event ""]
+[Site "https://lichess.org/cYIAaAuJ#32"]
+[FEN "3r1rk1/pp2pp1p/3q2p1/3Pb2n/1P2P3/P1N5/1B2QPPP/R1R3K1 w - - 2 17"]
+[Themes "trading,kingsafety,restriction"]
+[Difficulty "2"]
+
+1. g3 *
+
+
+[Event ""]
+[Site "https://lichess.org/HANMNWTg#22"]
+[FEN "r1bqr1k1/ppp2pp1/1b1p1n1p/n7/3PP3/2N2N1P/PP3PP1/R1BQRBK1 w - - 5 12"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/euRJYsrU#62"]
+[FEN "2n5/7k/3p2pp/3Pp3/1P2P2P/2Nn2P1/7N/5K2 w - - 2 32"]
+[Themes "restriction"]
+[Difficulty "2"]
+
+1. Na2 *
+
+
+[Event ""]
+[Site "https://lichess.org/EXClqf5v#22"]
+[FEN "2kr1bnr/ppp1ppp1/2n4p/3q3b/3PN2P/4BP1R/PPP1B1P1/R2Q1KN1 w - - 9 12"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/FiQm7vLv#28"]
+[FEN "1rq1k2r/3n1ppp/3Qp3/3p1b2/1P1P4/2P1PN2/5PPP/RN2K2R w KQk - 1 15"]
+[Themes "coordination,kingsafety"]
+[Difficulty "2"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/IpaPgx0f#36"]
+[FEN "q3r1k1/p1pn1pp1/7p/3nP3/8/2Q2N1P/PP3PP1/R1B3K1 w - - 3 19"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Qd4 *
+
+
+[Event ""]
+[Site "https://lichess.org/OB5O0e62#16"]
+[FEN "rn1q1rk1/pb2bppp/1p1ppn2/2p5/2PPP3/2NB1P2/PP2N1PP/R1BQ1RK1 w - c6 0 9"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/y6Ph7hGh#26"]
+[FEN "r1bqrnk1/p3bp1p/2p1p1p1/3p4/3P4/1NP1BN2/PP2QPPP/R3R1K1 w - - 4 14"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Ne5 *
+
+
+[Event ""]
+[Site "https://lichess.org/TVcCBQFT#19"]
+[FEN "2kr3r/ppp1nppp/2nq4/2b3B1/2Bp2b1/3Q1N2/PPP2PPP/RN2R1K1 b - - 5 10"]
+[Themes "initiative,coordination"]
+[Difficulty "1"]
+
+1. f6 *
+
+
+[Event ""]
+[Site "https://lichess.org/o1IKtPHA#16"]
+[FEN "rnb1k2r/1pqpbppp/p3pn2/8/4P3/2NB1N2/PPP2PPP/R1BQ1RK1 w kq - 8 9"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/iJ6hQBST#14"]
+[FEN "r1bqk1nr/1pp2ppp/1bn1p3/p2pP3/PP1P4/2P2N2/5PPP/RNBQKB1R w KQkq a6 0 8"]
+[Themes "space"]
+[Difficulty "1"]
+
+1. b5 *
+
+
+[Event ""]
+[Site "https://lichess.org/6mtWtrEs#26"]
+[FEN "r1b2rk1/3n1ppp/p1p1p3/q1Pp4/3Q4/2N1P1P1/PPP1BPP1/R4RK1 w - - 3 14"]
+[Themes "space,coordination"]
+[Difficulty "1"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/VBC4P8vC#72"]
+[FEN "3r4/5kp1/1bR3R1/p7/n2p1p2/N7/5PP1/6K1 w - - 1 37"]
+[Themes "endgame,coordination"]
+[Difficulty "2"]
+
+1. Nc4 *
+
+
+[Event ""]
+[Site "https://lichess.org/bZx2ARzu#27"]
+[FEN "r1b1k2r/p2n1ppp/1q2p3/3pP3/8/1N3N2/PP1Q1PPP/R3K2R b KQkq - 0 14"]
+[Themes "initiative,development"]
+[Difficulty "1"]
+
+1. Ba6 *
+
+
+[Event ""]
+[Site "https://lichess.org/wTMuc5Va#33"]
+[FEN "rn1q1rk1/p6p/1p4p1/2p2p2/2Q1pP2/8/PP3PPP/R1B1K2R b KQ - 0 17"]
+[Themes "kingsafety"]
+[Difficulty "2"]
+
+1. Rf7 *
+
+
+[Event ""]
+[Site "https://lichess.org/vfw1Xv9f#19"]
+[FEN "rn2k1nr/p1ppqp2/1p2p3/7p/3P2p1/2PBP3/PPQN1PbP/RN2K1R1 b Qkq - 1 10"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Bb7 *
+
+
+[Event ""]
+[Site "https://lichess.org/daX1V5jy#19"]
+[FEN "rnbq1r1k/ppp1p1bp/6p1/3N1pB1/2BPp3/8/PPP2PPP/R2Q1RK1 b - - 0 10"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Nc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/SVB4WCF9#37"]
+[FEN "6k1/ppp2p2/3r2pb/3Np2p/2N1P1bP/P3P3/1PP3P1/2K4R b - - 5 19"]
+[Themes "coordination"]
+[Difficulty "2"]
+
+1. Re6 *
+
+
+[Event ""]
+[Site "https://lichess.org/l0cVc19B#13"]
+[FEN "r2qkb1r/pQpnpppp/5n2/6N1/2B3b1/8/PPPP2PP/RNB1K2R b KQkq - 2 7"]
+[Themes "development,kingsafety"]
+[Difficulty "1"]
+
+1. e6 *
+
+
+[Event ""]
+[Site "https://lichess.org/KAmfpJjC#22"]
+[FEN "r1bqk1nr/1pp3pp/1b3p2/pP2pn2/P1Pp4/3P2P1/1B1QPPBP/RN2K1NR w KQkq - 1 12"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. Ba3 *
+
+
+[Event ""]
+[Site "https://lichess.org/hVqlZWEg#16"]
+[FEN "r1bq1rk1/1ppnppb1/3p1npp/p7/3P1B2/2N1PN2/PPPQBPPP/2KR3R w - a6 0 9"]
+[Themes "initiative,space,coordination"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/j6sWKfFl#27"]
+[FEN "r2q1rk1/pbp1b1pp/1p6/4pp2/2Q5/2NP4/PPP2PPP/2KR1B1R b - - 1 14"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. Kh8 *
+
+
+[Event ""]
+[Site "https://lichess.org/As1NjfWf#44"]
+[FEN "2rq1rk1/pb3pb1/1p2pnp1/n6p/4P3/PP3NP1/1B1NQPBP/3RR1K1 w - - 5 23"]
+[Themes "initiative"]
+[Difficulty "2"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/iyHk1XXf#13"]
+[FEN "r2qkbnr/ppp2ppp/8/3p4/Q1n3b1/4PN2/PP1N1PPP/R1B1KB1R b KQkq - 1 7"]
+[Themes "initiative,coordination"]
+[Difficulty "1"]
+
+1. Bd7 *
+
+
+[Event ""]
+[Site "https://lichess.org/mWFMVkb2#31"]
+[FEN "r2qk2r/1p2nppp/p1n1p3/3p4/1P6/P1B2B2/5PPP/1R1QR1K1 b kq - 0 16"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/I3TlItjF#47"]
+[FEN "1b1r2k1/1b2q1pp/p3pr2/1p6/1P1pP1N1/P2B4/2PQ2PP/2R2R1K b - - 3 24"]
+[Themes "initiative,trading,coordination"]
+[Difficulty "1"]
+
+1. Rg6 *
+
+
+[Event ""]
+[Site "https://lichess.org/ByEZ7flD#32"]
+[FEN "r3k2r/2Bb1ppp/2p1pn2/8/8/p3P3/PP1R1PPP/2K2B1R w kq - 0 17"]
+[Themes "exploitingweakness,fixingstructure"]
+[Difficulty "2"]
+
+1. b3 *
+
+
+[Event ""]
+[Site "https://lichess.org/G9q5MvPp#38"]
+[FEN "3r1rk1/pp3ppp/2p1p3/2P1P3/4QPq1/4P3/PP4PP/3R1RK1 w - - 1 20"]
+[Themes "initiative,space,coordination"]
+[Difficulty "2"]
+
+1. Rd6 *
+
+
+[Event ""]
+[Site "https://lichess.org/G9q5MvPp#40"]
+[FEN "3r1rk1/1p3ppp/p1p1p3/2P1P3/Q4Pq1/4P3/PP4PP/3R1RK1 w - - 0 21"]
+[Themes "initiative,space,coordination"]
+[Difficulty "2"]
+
+1. Rd6 *
+
+
+[Event ""]
+[Site "https://lichess.org/FyiEdO5Y#29"]
+[FEN "rnb1kb1r/pp6/2p1qn2/3p1p1p/3PpPp1/2P1P1BP/PP1NB1P1/R1NQ1RK1 b kq - 0 15"]
+[Themes "initiative,restriction"]
+[Difficulty "2"]
+
+1. h4 *
+
+
+[Event ""]
+[Site "https://lichess.org/A5VXirpg#76"]
+[FEN "5r2/pk5p/1p3p2/2b2Pp1/P5K1/7P/8/2R1R3 w - - 1 39"]
+[Themes "endgame"]
+[Difficulty "3"]
+
+1. Re6 *
+
+
+[Event ""]
+[Site "https://lichess.org/vsX9N6S5#35"]
+[FEN "r3k2r/pp1b1p1p/3p2pP/4p1b1/2N1q3/8/PPPB1PP1/RQ3RK1 b kq - 4 18"]
+[Themes "initiative,trading,coordination"]
+[Difficulty "1"]
+
+1. Be7 *
+
+
+[Event ""]
+[Site "https://lichess.org/QWR3WCGS#20"]
+[FEN "r1bqk2r/pp2p1bp/1np2np1/5p1P/2BP1B2/2N2Q2/PPP3P1/2KR2NR w kq - 1 11"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Bb3 *
+
+
+[Event ""]
+[Site "https://lichess.org/x80fLHSt#28"]
+[FEN "2kr3r/1pp1qp1p/p1n3pQ/3n4/3P2b1/N3P1B1/PPB2PPP/R3K2R w KQ - 0 15"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/vuowOw3C#18"]
+[FEN "r1b2rk1/pp2npbp/2n1p1p1/q1Pp4/8/P2BPN2/1PPN1PPP/1RBQ1RK1 w - - 3 10"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. b4 *
+
+
+[Event ""]
+[Site "https://lichess.org/d7woNIzY#14"]
+[FEN "rn1qk2r/pbp2ppp/1p3n2/3p4/1b1PP3/2NB4/PPQ2PPP/R1B1K1NR w KQkq - 0 8"]
+[Themes "space,fixingstructure"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Yaa0qg9f#25"]
+[FEN "r2qk2r/1pp2pp1/p1n2b1p/3p1b2/8/2NB1N2/PPP2PPP/1R1Q1RK1 b kq - 1 13"]
+[Themes "trading,coordination,restriction"]
+[Difficulty "2"]
+
+1. Be6 *
+
+
+[Event ""]
+[Site "https://lichess.org/Qr16FsJM#35"]
+[FEN "1k1r2r1/1pp2ppp/p1p5/8/3BnP2/2P3P1/P1P4P/3RR1K1 b - - 3 18"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/Y7FK3gdZ#44"]
+[FEN "6k1/p1p2p1p/1p1pb1p1/8/8/2P4P/P4PPB/4N1K1 w - - 1 23"]
+[Themes "endgame"]
+[Difficulty "2"]
+
+1. a3 *
+
+
+[Event ""]
+[Site "https://lichess.org/VE5Chnxm#50"]
+[FEN "3rr1k1/1pb2ppp/8/pPPp4/Pq1Bp1B1/8/6PP/R2Q1NK1 w - - 2 26"]
+[Themes "initiative,prophylaxis,coordination"]
+[Difficulty "3"]
+
+1. Rb1 *
+
+
+[Event ""]
+[Site "https://lichess.org/VE5Chnxm#54"]
+[FEN "3rr1k1/1pb2ppp/8/pPPp4/Pq1Bp1B1/8/6PP/R2Q1NK1 w - - 6 28"]
+[Themes "prophylaxis,coordination,restriction"]
+[Difficulty "4"]
+
+1. Rb1 *
+
+
+[Event ""]
+[Site "https://lichess.org/NpSw2E48#25"]
+[FEN "r3k1nr/ppp1p1bp/2n2pp1/1B1R4/5B2/8/PPP2PPP/4K1NR b K - 3 13"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/OWmB0UFU#33"]
+[FEN "r3r1k1/p1q2ppp/2pb4/8/4pN2/6Pb/PPPQ1P1P/R1B1R1K1 b - - 1 17"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Bg4 *
+
+
+[Event ""]
+[Site "https://lichess.org/PX19gt8U#16"]
+[FEN "r1bqk2r/p2p1ppp/2p1pn2/b7/4P3/2P5/PP1NBPPP/R1BQK2R w KQkq - 1 9"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/YKFXrdzH#56"]
+[FEN "2k2r1r/1p6/p1p5/3pq1b1/5pP1/P1P2R2/1P4QN/R1B3K1 w - - 0 29"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. Bd2 *
+
+
+[Event ""]
+[Site "https://lichess.org/Kfmm36VX#22"]
+[FEN "r3kb1r/pp1n1ppp/2p1pn2/q7/3PP3/6P1/PPP1N1BP/R1BQ1RK1 w kq - 1 12"]
+[Themes "initiative,space,restriction"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/a02tjGsr#46"]
+[FEN "2k5/p4ppp/3r4/2p5/5P2/2P1nNP1/PPK4P/7R w - - 3 24"]
+[Themes "endgame"]
+[Difficulty "2"]
+
+1. Kc1 *
+
+
+[Event ""]
+[Site "https://lichess.org/E2eJT0Jb#23"]
+[FEN "rn2k1nr/pp2q2p/2pb1p2/3p4/B2P1pbB/2P4P/PP2N1P1/RN1QK2R b KQkq - 0 12"]
+[Themes "initiative,trading,coordination"]
+[Difficulty "2"]
+
+1. Bh5 *
+
+
+[Event ""]
+[Site "https://lichess.org/GRpSPYYk#28"]
+[FEN "r1b1qrk1/pp4pp/2p1p1p1/4P3/3Nn3/N1P5/PP1Q1PPP/R4RK1 w - - 2 15"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Qe3 *
+
+
+[Event ""]
+[Site "https://lichess.org/2JdHJTo7#18"]
+[FEN "r2q1rk1/pp1nbppp/2p1pn2/3p4/3PP3/2PB4/PP1NQPPP/R1B1K2R w KQ - 1 10"]
+[Themes "space,fixingstructure"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/TbJZLkiG#50"]
+[FEN "2r2rk1/1p3p1p/4pBp1/b7/n3P3/3P4/2P1NPPP/1R1R2K1 w - - 0 26"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/TbJZLkiG#52"]
+[FEN "2r2rk1/5p1p/1p2pBp1/b7/n3P3/3P2N1/2P2PPP/1R1R2K1 w - - 0 27"]
+[Themes "endgame,space,restriction"]
+[Difficulty "2"]
+
+1. c4 *
+
+
+[Event ""]
+[Site "https://lichess.org/fLXszoVi#16"]
+[FEN "r1b1k1nr/p2p1pQp/1p2pq2/2b5/4P2P/2N5/PPP2PP1/R1B1KB1R w KQkq - 1 9"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. Qg3 *
+
+
+[Event ""]
+[Site "https://lichess.org/fLXszoVi#68"]
+[FEN "2r3k1/3p3p/b3p2P/1p2n1P1/p3P2B/P7/BPP5/1K3R2 w - - 2 35"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. Rd1 *
+
+
+[Event ""]
+[Site "https://lichess.org/tLfDuwaY#46"]
+[FEN "r3r1k1/pp1q1p2/2n3pB/3p4/2pP4/2P1P3/PP2BPb1/R2QK2R w Q - 2 24"]
+[Themes "initiative,coordination"]
+[Difficulty "1"]
+
+1. Rh2 *
+
+
+[Event ""]
+[Site "https://lichess.org/D8xTJbkN#42"]
+[FEN "r2r2k1/pp1q1ppb/2pp3p/4n3/2P1P2P/4NP2/PP1QB1P1/2KR3R w - - 2 22"]
+[Themes "initiative,space,restriction"]
+[Difficulty "2"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/RVpWescV#12"]
+[FEN "rnb1k1nr/pp1p1ppp/4p3/1Bp5/4PP2/6Pq/PPPP3P/RNBQK2R w KQkq - 1 7"]
+[Themes "development,coordination"]
+[Difficulty "2"]
+
+1. Bf1 *
+
+
+[Event ""]
+[Site "https://lichess.org/xfgvPLsa#33"]
+[FEN "r4rk1/2q2ppp/2p1p3/p1Pp4/8/P1P2Q1P/1P3PP1/R4RK1 b - - 0 17"]
+[Themes "prophylaxis,fixingstructure"]
+[Difficulty "2"]
+
+1. a4 *
+
+
+[Event ""]
+[Site "https://lichess.org/Mh1WxwM1#51"]
+[FEN "1qr3k1/p2nb1pp/1p2pr2/3p1p2/PP1N4/2P1PPP1/1R1QN1KP/5R2 b - - 0 26"]
+[Themes "development,exploitingweakness"]
+[Difficulty "1"]
+
+1. Ne5 *
+
+
+[Event ""]
+[Site "https://lichess.org/jeIWQj3a#36"]
+[FEN "2kr4/ppq2pr1/1np1p2p/3nPb2/8/1PP2NP1/PB2BP1P/R2QK2R w KQ - 1 19"]
+[Themes "prophylaxis,coordination"]
+[Difficulty "2"]
+
+1. Qc1 *
+
+
+[Event ""]
+[Site "https://lichess.org/J1QigN2n#17"]
+[FEN "r1b1kb1r/ppqnpppp/2p2n2/8/8/2N2NP1/PPQ2PBP/R1BR2K1 b kq - 5 9"]
+[Themes "development,coordination"]
+[Difficulty "1"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/mRGY0fEj#16"]
+[FEN "r1bqkb1r/pp2np2/1npBp2p/6p1/2BPP3/5N1P/PPP2PP1/RN1Q1RK1 w kq - 1 9"]
+[Themes "trading"]
+[Difficulty "2"]
+
+1. Be5 *
+
+
+[Event ""]
+[Site "https://lichess.org/CtGEM1uj#31"]
+[FEN "r1bqr1k1/1p3p1p/p1p3pb/3pn3/3Q4/1P2P1P1/PB2NPBP/2R2RK1 b - - 1 16"]
+[Themes "prophylaxis"]
+[Difficulty "1"]
+
+1. Bg7 *
+
+
+[Event ""]
+[Site "https://lichess.org/EZ2Mueld#44"]
+[FEN "1r6/p1k2p2/2p3pp/8/1PnN4/P7/1KP2PPP/3R4 w - - 3 23"]
+[Themes "endgame"]
+[Difficulty "1"]
+
+1. Kb3 *
+
+
+[Event ""]
+[Site "https://lichess.org/AQAsHnGK#41"]
+[FEN "3r1k2/ppp1qp2/5n2/2b1p1B1/4P2P/2P3R1/PP2QPP1/6K1 b - h3 0 21"]
+[Themes "prophylaxis"]
+[Difficulty "1"]
+
+1. Qe6 *
+
+
+[Event ""]
+[Site "https://lichess.org/pSKFGoVs#33"]
+[FEN "r4rk1/p5pp/npp1q3/3pP3/4pB2/2P3Q1/PP3PPP/R3R1K1 b - - 1 17"]
+[Themes "development"]
+[Difficulty "1"]
+
+1. Nc5 *
+
+
+[Event ""]
+[Site "https://lichess.org/bMwJFjYg#18"]
+[FEN "r2qk2r/pppbpp2/2np1np1/7p/4P1P1/2PP1P2/PBPQ3P/2KR1BNR w kq h6 0 10"]
+[Themes "initiative"]
+[Difficulty "1"]
+
+1. g5 *
+
+
+[Event ""]
+[Site "https://lichess.org/lOfAbhlf#79"]
+[FEN "8/2p2k2/3p1b2/pPpPn3/P3P3/6Rr/4KB2/3N4 b - - 1 40"]
+[Themes "trading,coordination"]
+[Difficulty "2"]
+
+1. Rh4 *
+
+
+[Event ""]
+[Site "https://lichess.org/QsGkk3ur#34"]
+[FEN "r2qrbk1/5p2/2p2npQ/pp1pN3/3P2pP/6N1/PPP2PP1/2KR3R w - - 2 18"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Qf4 *
+
+
+[Event ""]
+[Site "https://lichess.org/HLKgYZRk#25"]
+[FEN "r3kb1r/pb1p1ppp/4p3/1p2Nq2/2pPn3/P1P5/1P2QPPP/R1B1RNK1 b kq - 1 13"]
+[Themes "development"]
+[Difficulty "3"]
+
+1. f6 *
+
+
+[Event ""]
+[Site "https://lichess.org/0yGKdcmo#38"]
+[FEN "2k1r3/2p2p1p/3p4/ppbP4/5BP1/5P1P/PPP5/2KR4 w - - 0 20"]
+[Themes "endgame"]
+[Difficulty "1"]
+
+1. Kd2 *
+
+
+[Event ""]
+[Site "https://lichess.org/54imOtKu#38"]
+[FEN "3q1k1r/Q2npp2/3p2p1/2nP3p/2P5/2b1BP2/P3BP1P/1R2K2R w K - 2 20"]
+[Themes "trading,kingsafety"]
+[Difficulty "1"]
+
+1. Kf1 *
+
+
+[Event ""]
+[Site "https://lichess.org/cRKVXtXG#87"]
+[FEN "8/5pk1/3b2pp/8/2Bp4/pr4PP/R3PPK1/8 b - - 2 44"]
+[Themes "endgame,trading"]
+[Difficulty "2"]
+
+1. Rc3 *
+
+
+[Event ""]
+[Site "https://lichess.org/vL8oaZN3#16"]
+[FEN "r3kbnr/ppp1q1pp/2np4/4p3/2PPPB2/5N2/PP4PP/RN1QK2R w KQkq - 0 9"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Bg5 *
+
+
+[Event ""]
+[Site "https://lichess.org/TWtZe2Pt#11"]
+[FEN "r1bqk1nr/pp1p1ppp/1bn5/4p3/4N3/4PN2/PPP2PPP/R1BQKB1R b KQkq - 0 6"]
+[Themes "initiative,space"]
+[Difficulty "1"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/EIWU0byO#32"]
+[FEN "r4rk1/p1pq1p1p/2pn2p1/3p1b2/3P1B2/2PBPP2/P1Q3PP/R4RK1 w - - 1 17"]
+[Themes "space,trading,restriction"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/ZxIP4rLd#14"]
+[FEN "r1bqk2r/p2pnpbp/2p1p1p1/2p5/4P3/2N2N1P/PPPP1PP1/R1BQ1RK1 w kq - 2 8"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/smMxjGBI#17"]
+[FEN "rnbqk2N/ppp1b2p/5n2/4Q3/2p1p3/8/PPPP1PPP/RNB2RK1 b q - 1 9"]
+[Themes "development,coordination,kingsafety"]
+[Difficulty "1"]
+
+1. Nc6 *
+
+
+[Event ""]
+[Site "https://lichess.org/0sJlR6vT#24"]
+[FEN "r2q1rk1/1b1pbppp/2p1pn2/p7/2P1P3/1P3B2/PB1N1PPP/R2Q1RK1 w - - 1 13"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/JW8u7ZZg#29"]
+[FEN "r3r1k1/1pqn1ppp/2pb1p2/p7/P2P4/2P1B2P/1P1NQPP1/R4RK1 b - - 0 15"]
+[Themes "initiative,space"]
+[Difficulty "2"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/PaIjANIW#22"]
+[FEN "r1b1k1nr/ppp1qpp1/3p2np/4P3/P1BP4/B1P2Q2/2P2PPP/R3K2R w KQkq - 0 12"]
+[Themes "initiative,kingsafety"]
+[Difficulty "1"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/YfDgtsT7#69"]
+[FEN "2rr3k/6p1/1Qnp2Pn/p6P/P3P3/8/6K1/4R3 b - - 0 35"]
+[Themes "initiative,coordination"]
+[Difficulty "2"]
+
+1. Ne5 *
+
+
+[Event ""]
+[Site "https://lichess.org/UpQCpfYe#67"]
+[FEN "8/pp2k3/2p3n1/4p3/1bP1P1p1/1P4P1/P2N4/1N5K b - - 2 34"]
+[Themes "endgame,exploitingweakness"]
+[Difficulty "3"]
+
+1. Kd6 *
+
+
+[Event ""]
+[Site "https://lichess.org/9Y4Tene3#31"]
+[FEN "r1b2rk1/p2p1p1p/2p1p1p1/4qn2/2B1N3/7Q/PPP2PPP/3RR1K1 b - - 1 16"]
+[Themes "space,restriction"]
+[Difficulty "2"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/tlguU7bH#32"]
+[FEN "r2q1rk1/3n1p1p/3b1np1/pb1pN3/2pP4/2P1N3/1PQ1BPPP/R1B1R1K1 w - - 2 17"]
+[Themes "initiative,space"]
+[Difficulty "3"]
+
+1. f4 *
+
+
+[Event ""]
+[Site "https://lichess.org/17ZvScbG#22"]
+[FEN "r3k1nr/pp1n1pbp/1q1p2p1/4p3/PpPP4/4PB2/1B3PPP/RN1Q1RK1 w kq e6 0 12"]
+[Themes "initiative,development,restriction"]
+[Difficulty "2"]
+
+1. a5 *
+
+
+[Event ""]
+[Site "https://lichess.org/jYWlxxqJ#16"]
+[FEN "rnb1k2r/pppp1pp1/5q2/7p/3bP3/2N3P1/PPP1QP1P/R1B1KB1R w KQkq h6 0 9"]
+[Themes "initiative,development,coordination"]
+[Difficulty "2"]
+
+1. Nd5 *
+
+
+[Event ""]
+[Site "https://lichess.org/4LOvW7eX#29"]
+[FEN "r2qk2r/pp3pp1/2p1pnp1/3pP3/5PP1/1NP1P2P/PP6/R2QK2R b KQkq - 0 15"]
+[Themes "initiative,development,coordination"]
+[Difficulty "1"]
+
+1. Ne4 *
+
+
+[Event ""]
+[Site "https://lichess.org/z8l7BgA0#31"]
+[FEN "2kr3r/ppp3pp/4B3/2b1n3/5p2/3P1P2/PPP3KP/5RNR b - - 4 16"]
+[Themes "endgame,coordination"]
+[Difficulty "3"]
+
+1. Kb8 *
+
+
+[Event ""]
+[Site "https://lichess.org/w92e7JIc#35"]
+[FEN "r2r2k1/pb3pbp/1pn1n1p1/4p3/1P2B3/PNP3P1/1B1N1P1P/R4RK1 b - - 2 18"]
+[Themes "endgame,space,restriction"]
+[Difficulty "2"]
+
+1. f5 *
+
+
+[Event ""]
+[Site "https://lichess.org/jbvjjlPW#47"]
+[FEN "3r1b1r/p1knp2p/1p1q2p1/2p5/3P3P/3BPN2/PPK1Q3/2B3R1 b - - 1 24"]
+[Themes "development,prophylaxis,coordination"]
+[Difficulty "3"]
+
+1. Bh6 *
+
+
+[Event ""]
+[Site "https://lichess.org/I1zISIra#18"]
+[FEN "r2qkb1r/ppp1p1pp/1nn2p2/8/2PP4/5P2/PP2BP1P/RNBQK2R w KQkq - 1 10"]
+[Themes "initiative,space,restriction"]
+[Difficulty "2"]
+
+1. d5 *
+
+
+[Event ""]
+[Site "https://lichess.org/BCmGDbWp#24"]
+[FEN "r3kb1r/p1qnpppp/1pp5/8/4B3/8/PPP2PPP/R1BQR1K1 w kq - 1 13"]
+[Themes "initiative,development,coordination"]
+[Difficulty "3"]
+
+1. Qf3 *
+
+
+[Event ""]
+[Site "https://lichess.org/fSUelhwL#29"]
+[FEN "3rkb1r/ppp3pp/1n2bn2/5p2/P1P1p2P/1P2P1N1/1B1NBPP1/R2K3R b - - 0 15"]
+[Themes "development,endgame"]
+[Difficulty "1"]
+
+1. Bb4 *
+
+
+[Event ""]
+[Site "https://lichess.org/A47VuvPE#28"]
+[FEN "r4r1k/pp4pp/1qn1Qn2/8/8/2N5/PPP2PPP/R1B1K2R w KQ - 1 15"]
+[Themes "kingsafety"]
+[Difficulty "1"]
+
+1. O-O *
+
+
+[Event ""]
+[Site "https://lichess.org/E9yBwDJj#16"]
+[FEN "rnb1k2r/bpqp1ppp/p3pn2/8/2P1P3/1N1B4/PP2QPPP/RNB1K2R w KQkq - 1 9"]
+[Themes "initiative,space,restriction,centrecontrol"]
+[Difficulty "2"]
+
+1. e5 *
+
+
+[Event ""]
+[Site "https://lichess.org/BocWVyoK#57"]
+[FEN "1k3r2/1pp2rp1/p6p/3p2qR/3P2P1/P4P2/KP2Q3/5R2 b - - 1 29"]
+[Themes "coordination"]
+[Difficulty "1"]
+
+1. Qd8 *
+
+
+[Event ""]
+[Site "https://lichess.org/VJNEtLHb#18"]
+[FEN "rn1qk2r/1bppnpb1/p3p2p/4P1p1/1p1P4/2NBBN1P/PPP1QPP1/R3K2R w KQkq - 0 10"]
+[Themes "development,centrecontrol"]
+[Difficulty "1"]
+
+1. Ne4 *
+
+
+[Event ""]
+[Site "https://lichess.org/MMBmhHop#28"]
+[FEN "r4rk1/pp2ppbp/1qn3p1/4P3/3PQ3/7P/PP1BBPP1/R3K2R w KQ - 3 15"]
+[Themes "coordination,centrecontrol"]
+[Difficulty "1"]
+
+1. Bc3 *
+
+
+[Event ""]
+[Site "https://lichess.org/vEgLndJa#90"]
+[FEN "8/8/4k2p/1p4p1/1PpP4/2K1P1PP/6N1/n7 w - - 0 46"]
+[Themes "endgame,centrecontrol"]
+[Difficulty "1"]
+
+1. e4 *
+
+
+[Event ""]
+[Site "https://lichess.org/6sqEKzIx#36"]
+[FEN "2r4r/1b1k3p/pp2pqp1/2bp4/3N1PQ1/2P5/PP4PP/R1B2RK1 w - - 1 19"]
+[Themes "coordination,exploitingweakness,kingsafety"]
+[Difficulty "3"]
+
+1. Be3 *
+
+
+[Event ""]
+[Site "https://lichess.org/Y8dI4z5A#46"]
+[FEN "rn6/3k1ppp/2bPp3/pN4P1/PpB5/1P6/5PP1/3R2K1 w - - 1 24"]
+[Themes "endgame,coordination"]
+[Difficulty "3"]
+
+1. Nc7 *
+
+
+[Event ""]
+[Site "https://lichess.org/61h0l2qv#34"]
+[FEN "r2q1rk1/pp1b2n1/2p1p1p1/3nPpNp/3P4/1P1BP2Q/PB4PP/R4RK1 w - - 0 18"]
+[Themes "coordination,exploitingweakness,restriction,fixingstructure"]
+[Difficulty "3"]
+
+1. Qg3 *
+
+
+[Event ""]
+[Site "https://lichess.org/1KXVxju9#39"]
+[FEN "r4rk1/ppn5/2p2q1p/2Pp1ppB/3Pn3/P1NQ3P/1P3PP1/R4RK1 b - - 4 20"]
+[Themes "endgame,trading,coordination,centrecontrol"]
+[Difficulty "2"]
+
+1. Ne6 *
+
+
+[Event ""]
+[Site "https://lichess.org/BjHOIkSU#20"]
+[FEN "rn1qkb1r/4npp1/b1p1p2p/p3P3/Pp1P4/1B2BN2/1P3PPP/RN1Q1RK1 w kq - 2 11"]
+[Themes "initiative,development,coordination,centrecontrol"]
+[Difficulty "3"]
+
+1. Re1 *
+
+
+[Event ""]
+[Site "https://lichess.org/mlPIPAgm#24"]
+[FEN "r1b1k1nr/1p1p1ppp/p3p3/8/3NP3/1QN1P1q1/PP6/R3KB1R w KQkq - 0 13"]
+[Themes "initiative,development,coordination,exploitingweakness"]
+[Difficulty "3"]
+
+1. Kd2 *
+
+
+[Event ""]
+[Site "https://lichess.org/XZL6kmcR#29"]
+[FEN "r1b2rk1/pp3ppp/1q2p3/3p1n2/1b3B2/1P3NP1/P1Q1PPBP/R4RK1 b - - 6 15"]
+[Themes "coordination,exploitingweakness"]
+[Difficulty "3"]
+
+1. Bd7 *
+
