@@ -40,7 +40,7 @@ I also asked them to assign each puzzle a difficulty level:
 4 - Very Hard (2000+ Elo)
 
 
-# output
+# Output
 There are two sets of output:
 
 ## PGN
