@@ -54,38 +54,38 @@ In particular, I have passed all the positions through [Ethereal](https://github
 I have included the following parameters for both black and white, for both before and after, the best move in each position. Note that Ethereal's concepts don't necessarily correspond to human ones.
 
 ### For the overall position (before and after the move)
-final_eval - Ethereal's overall valuation of the position, from white's perspective, in centipawns
-pswtmat - An indication of the total imbalance of material, based on its position (eg a Knight on the edge is worth less than one in the centre; a rook in the endgame is worth more than in the middle game)
-material_imbalance - The *material* component of PsqtMat
-position_imbalance - The *positional* component of PsqtMat
-closedness - How closed a position is
-complexity - How complex a position is, weighted towards the end game
+* final_eval - Ethereal's overall valuation of the position, from white's perspective, in centipawns
+* psqtmat - An indication of the total imbalance of material, based on its position (eg a Knight on the edge is worth less than one in the centre; a rook in the endgame is worth more than in the middle game)
+* material_imbalance - The *material* component of PsqtMat
+* position_imbalance - The *positional* component of PsqtMat
+* closedness - How closed a position is
+* complexity - How complex a position is, weighted towards the end game
 
 #### The centre
 There are two centres - the small centre (4 squares) and big centre (16 squares). Each positition has scores for each centre, before and after the move:
 
-white - squares controlled by white
-black - controlled by black
-contested - contested squares
-uncontrolled - uncontrolled
+* white - squares controlled by white
+* black - controlled by black
+* contested - contested squares
+* uncontrolled - uncontrolled
 
 The importance of the centre changes depending on the stage of the game (middle game or end game)
 
 ### For each colour (before and after the move)
-pawns - How strong the side's pawns are, in centipawns, from the side's perspective
-pawns_and_king_safety_without_king_and_pawns - The pawn and king contribution to king *safety*, before pawn storms and pawn shelters are taken into account
-pawns_and_king_safety_with_king_and_pawns - The pawn and king contribution to king *safety*, once pawn storms and pawn shelters are taken into account
-pawns_and_king_evaluation_without_king_and_pawns - The pawn and king contribution to king *evaluation*, before pawn storms and pawn shelters are taken into account
-pawns_and_king_evaluation_with_king_and_pawns - The pawn and king contribution to king *evaluation*, once pawn storms and pawn shelters are taken into account
-knights - Strength of knighs
-bishops - Of bishops
-rooks - Of rooks
-queens - Of queens
-kings - of Kings
-passed - strength of passed pawns
-threats - measure of threats posed
-space - a measure how much the side is restricting the opponent
-safe_space - not from Ethereal, but a count of the spaces behind your own pawns you control
+* pawns - How strong the side's pawns are, in centipawns, from the side's perspective
+* pawns_and_king_safety_without_king_and_pawns - The pawn and king contribution to king *safety*, before pawn storms and pawn shelters are taken into account
+* pawns_and_king_safety_with_king_and_pawns - The pawn and king contribution to king *safety*, once pawn storms and pawn shelters are taken into account
+* pawns_and_king_evaluation_without_king_and_pawns - The pawn and king contribution to king *evaluation*, before pawn storms and pawn shelters are taken into account
+* pawns_and_king_evaluation_with_king_and_pawns - The pawn and king contribution to king *evaluation*, once pawn storms and pawn shelters are taken into account
+* knights - Strength of knighs
+* bishops - Of bishops
+* rooks - Of rooks
+* queens - Of queens
+* kings - of Kings
+* passed - strength of passed pawns
+* threats - measure of threats posed
+* space - a measure how much the side is restricting the opponent
+* safe_space - not from Ethereal, but a count of the spaces behind your own pawns you control
 
 
 # Notes
