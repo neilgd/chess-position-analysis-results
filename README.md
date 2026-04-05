@@ -10,7 +10,7 @@ You are free to do what you like with this work, but if you could link back / cr
 * WGM Margaria Voyska
 * 'Fiddler' for his guidance
 
-# Iverview
+# Overview
 I have mined the Lichess games database for positions which could possibly be used as positional, rather than tactical, puzzles. I've done this by looking for positions with non-tactical moves that give a clear - but not massive - advantage over the second best move.
 
 I then I asked some strong players (see above) to review each position and answer the question "Is this position a puzzle with a single, constructive answer", and to assign to one or more categories (these categories were suggested by the players)
