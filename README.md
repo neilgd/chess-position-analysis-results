@@ -50,6 +50,9 @@ The PGN files contain custom headers for the themes and difficulty. You can load
 ## CSV
 CSV files with the positions, best move, and categories
 
+# Small plug
+Looking for a place to play high quality, classical games of chess? Check out [Lichess Ladders](https://lichessladders.com)
+
 # Feedback
 The classification was done by humans, so is obviously subjective. If there are puzzles that you feel are incorrectly classified then feel free to raise an issue.
 
