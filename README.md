@@ -42,11 +42,14 @@ I also asked them to assign each puzzle a difficulty level:
 
 
 # Output
-There are two sets of output.
+There are two sets of output:
 
 ## PGN
 The PGN files contain custom headers for the themes and difficulty. You can load them in any chess app / site.
 
 ## CSV
 CSV files with the positions, best move, and categories
+
+# Feedback
+The classification was done by humans, so is obviously subjective. If there are puzzles that you feel are incorrectly classified then feel free to raise an issue.
 
