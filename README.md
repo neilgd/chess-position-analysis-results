@@ -1,5 +1,5 @@
 # Chess-position-analysis-results
-This is a project to find positionally interesting chess positions that can be used for puzzles
+This is a project to find positionally interesting chess positions that can be used for puzzles. The idea is that there are loads of resources for tactical puzzles, but not as many for positional puzzles.
 
 # Using this work
 You are free to do what you like with this work, but if you could link back / credit this repository and contributors (see below) that would be great.
@@ -52,6 +52,9 @@ CSV files with the positions, best move, and categories
 
 # Small plug
 Looking for a place to play high quality, classical games of chess? Check out [Lichess Ladders](https://lichessladders.com)
+
+# Future work
+At some point I will put the puzzles on [Chess Gubbins](https://chessgubbins.com). If there is interest, I will source more positions too.
 
 # Feedback
 The classification was done by humans, so is obviously subjective. If there are puzzles that you feel are incorrectly classified then feel free to raise an issue.
